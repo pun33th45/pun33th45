@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Puneeth raj yadav</h1>
-<h3 align="center">I'm an aspiring web developer with a strong passion for building modern, responsive websites and applications. I enjoy working with technologies like HTML, CSS, JavaScript, and React, and I'm currently learning backend development with tools like Node.js and Supabase. I'm eager to grow, collaborate on real-world projects, and contribute to innovative digital experiences.</h3>
+<h3 align="center">Aspiring web developer focused on building modern, responsive applications using advanced tools and frameworks like React, Next.js, and Supabase. Passionate about creating efficient, scalable solutions and constantly learning to stay ahead in web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pun33th45&label=Profile%20views&color=0e75b6&style=flat" alt="pun33th45" /> </p>
 
