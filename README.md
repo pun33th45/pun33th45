@@ -1,7 +1,7 @@
 #  Hi 👋, I'm Puneeth raj
 **A passionate Web devoloper || Fullstack || From Hyderabad,India**
 
-Email Me 👉 ✉️ **puneethraaaj@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+📩 **Email Me 👉** ✉️ puneethraaaj@gmail.com , 🤝 Collaboration • Projects • Ideas
 
 🚀 Passionate about building scalable, user-friendly web applications  
 🌱 Currently mastering **MERN Stack** (MongoDB | Express | React | Node.js)  
