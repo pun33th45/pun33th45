@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Puneeth raj
+#  Hi 👋, I'm Puneeth raj
 **A passionate Web devoloper || Fullstack || From Hyderabad,India**
 
 Email Me 👉 ✉️ **puneethraaaj@gmail.com** For Collaboration/Project or Anything Else. 😊😊
