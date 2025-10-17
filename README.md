@@ -1,6 +1,6 @@
 
 #  Hi 👋, I'm Puneeth raj
-**A passionate Web devoloper || Fullstack || From Hyderabad,India**
+**A passionate Web devoloper || Frontend || From Hyderabad,India**
 
 <img align="right" height="200" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlidWttcHB0OHY0dHl2YWJxNHdzOGxqaG1jMWFrY2w3dWlxcnlwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
