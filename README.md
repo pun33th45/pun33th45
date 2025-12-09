@@ -11,10 +11,9 @@
 📚 Lifelong learner & open-source enthusiast  
 🤝 Let’s connect and build something amazing together!
 
-## 🏆 GitHub Trophies
-### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pun33th45&theme=radical&no-frame=true&column=7)
+<h3>🏆 GitHub Trophies</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=pun33th45&theme=radical&no-frame=true&column=7" />
 
 
 
