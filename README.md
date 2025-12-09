@@ -13,8 +13,11 @@
 
 
 <h3>🏆 GitHub Trophies</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=pun33th45&theme=radical&no-frame=true&column=7" />
+### 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pun33th45&theme=radical&no-frame=true&column=7" />
+</p>
 
 
 ## 🌐 Socials:
