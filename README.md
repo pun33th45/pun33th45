@@ -12,12 +12,10 @@
 🤝 Let’s connect and build something amazing together!
 
 ## 🏆 GitHub Trophies
-<!-- Put this in your README.md (GitHub supports simple HTML in Markdown) -->
 <div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&column=7" 
-       alt="GitHub Trophies" />
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&column=7)
 </div>
+
 
 
 ## 🌐 Socials:
