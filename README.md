@@ -12,7 +12,7 @@
 🤝 Let’s connect and build something amazing together!
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?pun33th45=YOUR_USERNAME&theme=radical&no-frame=true&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pun33th45&theme=radical&no-frame=true&column=7)
 
 
 
