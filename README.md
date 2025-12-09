@@ -1,9 +1,6 @@
 # 💫 About Me:
 A passionate Web devoloper || Frontend || From Hyderabad,India<br><br><br><br>
-
 <img align="right" height="200" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlidWttcHB0OHY0dHl2YWJxNHdzOGxqaG1jMWFrY2w3dWlxcnlwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
-
-
 📩 Email Me 👉 ✉️ puneethraaaj@gmail.com , 🤝 Collaboration • Projects • Ideas<br><br>🚀 Passionate about building scalable, user-friendly web applications<br>🌱 Currently mastering MERN Stack (MongoDB | Express | React | Node.js)<br>💡 Interested in clean code, UI/UX, and system design<br>📚 Lifelong learner & open-source enthusiast<br>🤝 Let’s connect and build something amazing together!
 
 
