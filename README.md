@@ -12,7 +12,13 @@
 🤝 Let’s connect and build something amazing together!
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pun33th45&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <a href="https://github.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&column=7"
+         alt="GitHub Trophies" style="max-width:100%;height:auto;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.12)" />
+    <p style="margin-top:8px;color:#666;font-size:13px">My GitHub trophies — click to visit profile</p>
+  </a>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pun33th._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puneeth-raj-774506211) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:puneethraaaj@gmail.com) 
