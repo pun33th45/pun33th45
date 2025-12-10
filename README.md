@@ -12,11 +12,17 @@
 🤝 Let’s connect and build something amazing together!
 
 
-<h3>🏆 GitHub Trophies</h3>
-### 🏆 GitHub Trophies
-
+<!-- Profile Badges / Shields -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pun33th45&theme=radical&no-frame=true&column=7" />
+  <img src="https://img.shields.io/github/followers/pun33th45?logo=github&style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/pun33th45?logo=github&style=for-the-badge" alt="Stars"/>
+  <img src="https://img.shields.io/badge/PROFILE-VIEWS-blue?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=pun33th45&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pun33th45&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
 
 
