@@ -13,10 +13,7 @@
 
 
 <!-- Profile Badges / Shields -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/pun33th45?logo=github&style=for-the-badge" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/pun33th45?logo=github&style=for-the-badge" alt="Stars"/>
-  <img src="https://img.shields.io/badge/PROFILE-VIEWS-blue?style=for-the-badge"/>
+<p 
   <img src="https://komarev.com/ghpvc/?username=pun33th45&style=for-the-badge" alt="Profile Views"/>
 </p>
 
