@@ -13,24 +13,18 @@
 
 
 <!-- Profile Badges / Shields -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/pun33th45?logo=github&style=for-the-badge" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/pun33th45?logo=github&style=for-the-badge" alt="Stars"/>
-  <img src="https://img.shields.io/badge/PROFILE-VIEWS-blue?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=pun33th45&style=for-the-badge" alt="Profile Views"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/pun33th45?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/pun33th45?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=pun33th45&style=for-the-badge" />
-</p>
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pun33th45&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pun33th45&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pun33th45&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pun33th45&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pun33th45&theme=radical&utcOffset=8">
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pun33th45&theme=radical&no-frame=true&no-bg=false&margin-w=10" />
-</p>
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=pun33th45&theme=radical&include_all_commits=true&count_private=true">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=pun33th45&theme=radical">
 
+</div>
 
 <!-- Summary Cards -->
 <div align="center">
