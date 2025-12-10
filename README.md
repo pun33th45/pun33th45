@@ -19,26 +19,6 @@
   <img src="https://komarev.com/ghpvc/?username=pun33th45&style=for-the-badge">
 </p>
 
-<!-- TROPHIES -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pun33th45&theme=onedark&no-frame=true&margin-w=10">
-</p>
-
-<!-- STATS -->
-<div align="center">
-
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pun33th45&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pun33th45&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pun33th45&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pun33th45&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pun33th45&theme=radical&utcOffset=8">
-
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=pun33th45&theme=radical&include_all_commits=true&count_private=true">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=pun33th45&theme=radical">
-
-</div>
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pun33th._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puneeth-raj-774506211) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:puneethraaaj@gmail.com) 
