@@ -25,11 +25,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pun33th45&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
 
-<!-- Top Languages (Dark Theme) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pun33th45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</p>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pun33th._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puneeth-raj-774506211) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:puneethraaaj@gmail.com) 
