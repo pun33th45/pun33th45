@@ -75,7 +75,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pun33th45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=pun33th45&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=pun33th45&theme=dark&hide_border=false)
 
 
 ### ✍️ Quote of the day
