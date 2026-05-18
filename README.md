@@ -7,17 +7,17 @@
 
 <!-- ─────────── HERO ─────────────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=vortex&color=0:020409,30:0a0e1a,60:0d1117,100:020409&height=320&section=header&text=PUNEETH%20RAJ&fontSize=74&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=%2F%2F%20AI%20Engineer%20%E2%80%94%20Building%20the%20Infrastructure%20of%20Intelligence&descSize=15&descAlignY=62&descColor=4b5563&stroke=00d4ff&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=vortex&color=0:020409,30:0a0e1a,60:0d1117,100:020409&height=320&section=header&text=PUNEETH%20RAJ&fontSize=74&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=%2F%2F%20Aspiring%20AI%20Engineer%20%E2%80%94%20Building%20the%20Infrastructure%20of%20Intelligence&descSize=15&descAlignY=62&descColor=4b5563&stroke=00d4ff&strokeWidth=2" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=740&height=40&lines=%5BSYSTEM+ONLINE%5D+AI+Engineer+%2F+Full+Stack+Developer;%5BACTIVE%5D+LLM+Pipelines+%E2%80%94+AI+Agents+%E2%80%94+RAG+Systems;%5BBUILDING%5D+Automation+%C2%B7+Workflows+%C2%B7+Intelligent+Systems;%5BPORTFOLIO%5D+puneeth-dev.vercel.app" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=740&height=40&lines=%5BSYSTEM+ONLINE%5D+Aspiring+AI+Engineer+%2F+Full+Stack+Developer;%5BACTIVE%5D+LLM+Pipelines+%E2%80%94+AI+Agents+%E2%80%94+RAG+Systems;%5BBUILDING%5D+Automation+%C2%B7+Workflows+%C2%B7+Intelligent+Systems;%5BPORTFOLIO%5D+puneeth-dev.vercel.app" alt="Typing SVG" />
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=pun33th45&style=flat-square&color=00d4ff&label=SIGNAL&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-ONLINE-22c55e?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/ASPIRING-AI_ENGINEER-00d4ff?style=flat-square&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/OPEN_TO-COLLABORATE-7c3aed?style=flat-square&labelColor=0d1117" />
 &nbsp;
@@ -42,7 +42,7 @@
 ```bash
 $ whoami
   PUNEETH RAJ
-  AI Engineer · Full Stack Developer
+  Aspiring AI Engineer · Full Stack Developer
   Hyderabad, India
 
 $ cat mission.txt
