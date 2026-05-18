@@ -70,9 +70,21 @@ $ cat links.json
 
 <div align="center">
 
-![](https://img.shields.io/badge/◈%20CURRENTLY%20AT-Proxim%20Wireless-22c55e?style=flat-square&labelColor=161b22&color=22c55e)
+<img src="https://img.shields.io/badge/◈_CURRENTLY_AT-Proxim_Wireless-22c55e?style=for-the-badge&labelColor=0d1117&color=22c55e" />
 
-<sub>`QA Automation Intern` &nbsp;·&nbsp; `Mar 2026 → Present` &nbsp;·&nbsp; `Python · Pytest · Automation · CI/CD`</sub>
+<br/>
+
+**QA Automation Intern** &nbsp;&nbsp; `Mar 2026 → Present`
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Automation-22c55e?style=flat-square&labelColor=0d1117&color=22c55e" />
+&nbsp;
+<img src="https://img.shields.io/badge/CI%2FCD-f59e0b?style=flat-square&labelColor=0d1117&color=f59e0b" />
 
 </div>
 
