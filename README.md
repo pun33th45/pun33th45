@@ -71,7 +71,7 @@ $ ls ./open_to/
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pun33th45&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pun33th45&theme=github_dark" alt="Stats" />
 
 <br/>
 
@@ -297,7 +297,9 @@ USER ──▶ Smart Parking Discovery
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pun33th45&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b949e&layout=compact&langs_count=6" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pun33th45&theme=github_dark" alt="Top Languages" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pun33th45&theme=github_dark" alt="Most Used Languages" />
 
 <br/><br/>
 
