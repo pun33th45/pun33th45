@@ -1,184 +1,338 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  GITHUB PROFILE — pun33th45                                              -->
-<!--  Copy this file to the pun33th45/pun33th45 repo as README.md             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--  GITHUB PROFILE v3 — pun33th45                                        -->
+<!--  Copy to pun33th45/pun33th45 as README.md                             -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ─────────────────────────── HERO BANNER ─────────────────────────── -->
+<!-- ─────────── HERO ─────────────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=vortex&color=0:050a14,35:0d1117,65:0a0e1a,100:050a14&height=290&section=header&text=PUNEETH%20RAJ&fontSize=68&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%94%20Building%20Systems%20That%20Think%2C%20Adapt%2C%20and%20Scale&descSize=16&descAlignY=63&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=vortex&color=0:020409,30:0a0e1a,60:0d1117,100:020409&height=320&section=header&text=PUNEETH%20RAJ&fontSize=74&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=%2F%2F%20AI%20Engineer%20%E2%80%94%20Building%20the%20Infrastructure%20of%20Intelligence&descSize=15&descAlignY=62&descColor=4b5563&stroke=00d4ff&strokeWidth=2" width="100%" />
 
 <br/>
 
-<!-- ─────────────────────────── TYPING ANIMATION ─────────────────────────── -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=AI+Engineer+%7C+Full+Stack+Developer;LLM+Pipelines+%7C+AI+Agents+%7C+RAG+Systems;LangChain+%7C+FastAPI+%7C+Next.js+%7C+Docker;Shipping+intelligent+systems+from+Hyderabad." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=740&height=40&lines=%5BSYSTEM+ONLINE%5D+AI+Engineer+%2F+Full+Stack+Developer;%5BACTIVE%5D+LLM+Pipelines+%E2%80%94+AI+Agents+%E2%80%94+RAG+Systems;%5BBUILDING%5D+Automation+%C2%B7+Workflows+%C2%B7+Intelligent+Systems;%5BPORTFOLIO%5D+puneeth-dev.vercel.app" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- ─────────────────────────── STATUS PILLS ─────────────────────────── -->
+<img src="https://komarev.com/ghpvc/?username=pun33th45&style=flat-square&color=00d4ff&label=SIGNAL&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-ONLINE-22c55e?style=flat-square&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATE-7c3aed?style=flat-square&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/BASE-HYDERABAD_·_IN-00d4ff?style=flat-square&labelColor=0d1117" />
 
-<img src="https://komarev.com/ghpvc/?username=pun33th45&style=flat-square&color=00d4ff&label=VISITORS&labelColor=161b22" alt="visitors" />
-&nbsp;
-<img src="https://img.shields.io/badge/LOCATION-Hyderabad%2C_India-00d4ff?style=flat-square&labelColor=161b22" alt="location" />
-&nbsp;
-<img src="https://img.shields.io/badge/FOCUS-AI_Engineering-7c3aed?style=flat-square&labelColor=161b22" alt="focus" />
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-Open_to_Collaborate-22c55e?style=flat-square&labelColor=161b22" alt="status" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,50:00d4ff,100:020409&height=1" width="65%" />
 
 </div>
 
+<br/>
+
+<!-- ─────────── ◈ INIT ────────────────────────────────────────────────── -->
+
+<table width="100%">
+<tr>
+<td width="52%" valign="top">
+
+## `◈ INIT`
+
+```bash
+$ whoami
+  PUNEETH RAJ
+  AI Engineer · Full Stack Developer
+  Hyderabad, India
+
+$ cat mission.txt
+  Build autonomous AI systems.
+  Ship products that matter.
+  Make intelligence — accessible.
+
+$ ps aux | grep current
+  [●] QA Automation Engineering @ Proxim Wireless
+  [●] LLM pipelines · AI agents · RAG systems
+  [●] AI-first full-stack products
+
+$ cat links.json
+  portfolio : https://puneeth-dev.vercel.app
+  github    : github.com/pun33th45
+  email     : puneethraaaj@gmail.com
+
+$ ls ./open_to/
+  ai_collaborations/
+  open_source_projects/
+  high_impact_eng_roles/
+```
+
+</td>
+<td width="48%" align="center" valign="top">
+
 <br/><br/>
 
----
-
-## `◈ Identity`
-
-```yaml
-name     : Puneeth Raj
-role     : AI Engineer · Full Stack Developer
-location : Hyderabad, India
-
-building : Autonomous AI agents, LLM-powered backends, intelligent full-stack systems
-mindset  : Ship fast. Think in systems. Build for scale.
-open_to  : Collaborations · AI projects · Open source · High-impact engineering roles
-```
-
-I work at the boundary of AI and product — not prompt wrappers, but real infrastructure. Multi-agent orchestration, RAG pipelines, production-grade APIs, and full-stack interfaces that make AI usable. I build what ships.
+<img src="https://github-readme-stats.vercel.app/api?username=pun33th45&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true" alt="Stats" />
 
 <br/>
 
----
+<img src="https://streak-stats.demolab.com?user=pun33th45&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" alt="Streak" />
 
-## `◈ Current Focus`
+</td>
+</tr>
+</table>
 
-```python
-this_season = {
-    "shipping"  : "AI Startup Agent — LLM workflow engine (Langflow + Groq + Llama 3)",
-    "building"  : ["autonomous multi-agent systems", "AI-first full-stack products"],
-    "exploring" : ["LangGraph", "RAG at scale", "LLM infrastructure", "edge AI"],
-    "reading"   : ["Attention Is All You Need", "Building LLMs from scratch", "agent memory architectures"],
-}
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,50:00d4ff,100:020409&height=1" width="65%" />
+</div>
+
+<br/>
+
+<!-- ─────────── ◈ MISSION LOG ────────────────────────────────────────── -->
+
+## `◈ MISSION LOG`
+
+<br/>
+
+```
+OPERATIONS LOG ──────────────────────────────────────────────────────────────
+ORGANIZATION  Proxim Wireless
+──────────────────────────────────────────────────────────────────────────────
+
+[● ACTIVE]   2026.03 → PRESENT
+  ROLE       QA Intern · Automation Engineering
+  ─────────────────────────────────────────────────────────────────────────
+  Developing Python-based automation frameworks to expand test coverage
+  and systematically eliminate manual testing overhead across QA cycles.
+
+  SKILLS     Python  ·  Automation Testing  ·  Test Frameworks  ·  CI/CD
+
+
+[◎ CLOSED]   2025.10 → 2026.02
+  ROLE       Web Development Intern
+  LOCATION   Hyderabad, Telangana
+  ─────────────────────────────────────────────────────────────────────────
+  Built and shipped production web applications end-to-end.
+  Optimized frontend architecture, performance, and user experience.
+
+  SKILLS     JavaScript  ·  React  ·  Frontend Development  ·  Web Apps
+
+──────────────────────────────────────────────────────────────────────────────
 ```
 
 <br/>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,50:00d4ff,100:020409&height=1" width="65%" />
+</div>
 
-## `◈ Tech Arsenal`
+<br/>
+
+<!-- ─────────── ◈ STACK ───────────────────────────────────────────────── -->
+
+## `◈ STACK`
+
+<br/>
+
+<div align="center">
+
+<sub>**`⟨  AI / ML  ⟩`**</sub>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
+
+<br/>
+
+<sub>`LangChain` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `LlamaIndex` &nbsp;·&nbsp; `Groq` &nbsp;·&nbsp; `HuggingFace` &nbsp;·&nbsp; `OpenAI API` &nbsp;·&nbsp; `Anthropic` &nbsp;·&nbsp; `RAG` &nbsp;·&nbsp; `Vector DBs` &nbsp;·&nbsp; `Prompt Engineering`</sub>
+
+<br/><br/>
+
+<sub>**`⟨  Backend  ⟩`**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**`⟨  Frontend  ⟩`**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**`⟨  Infra  ⟩`**</sub>
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgres,redis&theme=dark" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vite&theme=dark" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker,linux,git,vercel,firebase&theme=dark" />
+
+<br/>
+
+<sub>`FastAPI` · `Node.js` · `MongoDB` · `PostgreSQL` · `Redis` &nbsp;|&nbsp; `React` · `Next.js` · `TypeScript` · `Tailwind` · `shadcn/ui` &nbsp;|&nbsp; `Docker` · `GitHub Actions` · `Render` · `Railway`</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,50:00d4ff,100:020409&height=1" width="65%" />
+</div>
+
+<br/>
+
+<!-- ─────────── ◈ BUILDS ──────────────────────────────────────────────── -->
+
+## `◈ BUILDS`
 
 <br/>
 
 <table width="100%">
+
+<!-- ── ROW 1 ── -->
 <tr>
 
-<td valign="top" width="25%" align="center">
-<b>AI / Machine Learning</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" /><br/><br/>
-<sub>LangChain · LangGraph · LlamaIndex<br/>Groq · HuggingFace · OpenAI<br/>Anthropic · RAG · Vector DBs</sub>
+<td width="50%" valign="top">
+
+![](https://img.shields.io/badge/⚡_AUTOMATION_·_AI_WORKFLOW-0d1117?style=flat-square&labelColor=0d1117&color=00d4ff)
+
+**`N8N WORKFLOW GENERATOR`**
+
+> *From prompt to production automation — instantly.*
+
+Describe what you want automated in plain language. The system generates a complete, deployable n8n workflow — no manual node-building required. LLM-powered workflow intelligence meets visual automation.
+
+```
+PROMPT ──▶ LLM Orchestration
+                └──▶ Workflow Schema Generator
+                       └──▶ n8n-Compatible JSON
+                              └──▶ Deploy-Ready Automation
+```
+
+<sub>`Python` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `n8n API` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `LLM Orchestration`</sub>
+
+<br/>
+
+[![](https://img.shields.io/github/stars/pun33th45/n8n-workflow-generator?style=flat-square&color=f59e0b&labelColor=0d1117&label=★)](https://github.com/pun33th45/n8n-workflow-generator/stargazers)
+&nbsp;
+[![](https://img.shields.io/badge/OPEN_REPO→-00d4ff?style=flat-square&labelColor=0d1117)](https://github.com/pun33th45/n8n-workflow-generator)
+
 </td>
 
-<td valign="top" width="25%" align="center">
-<b>Backend</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgres&theme=dark" /><br/><br/>
-<sub>REST · WebSockets · Auth<br/>Async Python · Pydantic · Redis<br/>JWT · Firebase</sub>
-</td>
+<td width="50%" valign="top">
 
-<td valign="top" width="25%" align="center">
-<b>Frontend</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vite&theme=dark" /><br/><br/>
-<sub>shadcn/ui · Framer Motion<br/>React Query · Zustand<br/>Server Components</sub>
-</td>
+![](https://img.shields.io/badge/🧠_RAG_·_LLM_ENGINEERING-0d1117?style=flat-square&labelColor=0d1117&color=7c3aed)
 
-<td valign="top" width="25%" align="center">
-<b>Infra & Tools</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,vercel,firebase&theme=dark" /><br/><br/>
-<sub>GitHub Actions · CI/CD<br/>Render · Railway<br/>Hugging Face Spaces</sub>
+**`RAG-BASED DEVELOPER ASSISTANT`**
+
+> *Contextual AI coding support powered by retrieval-augmented generation.*
+
+An intelligent developer assistant that doesn't hallucinate — it retrieves. Indexes your documentation and codebase, then answers questions with precise, grounded context through a RAG pipeline.
+
+```
+QUERY ──▶ Vector Retrieval (Semantic Search)
+               └──▶ Context Injection
+                      └──▶ LLM Response Generation
+                             └──▶ Grounded, Accurate Answer
+```
+
+<sub>`Python` &nbsp;·&nbsp; `LlamaIndex` &nbsp;·&nbsp; `ChromaDB` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `OpenAI / Groq`</sub>
+
+<br/>
+
+[![](https://img.shields.io/github/stars/pun33th45/RAG-Based-Developer-Assistant?style=flat-square&color=f59e0b&labelColor=0d1117&label=★)](https://github.com/pun33th45/RAG-Based-Developer-Assistant/stargazers)
+&nbsp;
+[![](https://img.shields.io/badge/OPEN_REPO→-7c3aed?style=flat-square&labelColor=0d1117)](https://github.com/pun33th45/RAG-Based-Developer-Assistant)
+
 </td>
 
 </tr>
+
+<!-- ── ROW SPACER ── -->
+<tr><td colspan="2"><br/></td></tr>
+
+<!-- ── ROW 2 ── -->
+<tr>
+
+<td width="50%" valign="top">
+
+![](https://img.shields.io/badge/🚀_AI_AGENTS_·_STARTUP_INTELLIGENCE-0d1117?style=flat-square&labelColor=0d1117&color=22c55e)
+
+**`AI STARTUP AGENT`**
+
+> *Niche in. Full startup intelligence report out. In seconds.*
+
+Autonomous startup intelligence engine. Enter any market niche and receive a complete report: ideas, audience profiling, monetization strategy, MVP roadmap, and competitor analysis — all via a visual LLM pipeline at LPU speed.
+
+```
+NICHE ──▶ Prompt Layer
+               └──▶ Groq / Llama 3 (LPU Inference)
+                      └──▶ Ideas · Audience · Monetization
+                             └──▶ MVP Roadmap · Competitor Intel
+```
+
+<sub>`Langflow` &nbsp;·&nbsp; `Groq` &nbsp;·&nbsp; `Llama 3` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `Prompt Engineering`</sub>
+
+<br/>
+
+[![](https://img.shields.io/github/stars/pun33th45/ai-startup-agent?style=flat-square&color=f59e0b&labelColor=0d1117&label=★)](https://github.com/pun33th45/ai-startup-agent/stargazers)
+&nbsp;
+[![](https://img.shields.io/github/forks/pun33th45/ai-startup-agent?style=flat-square&color=22c55e&labelColor=0d1117&label=⑂)](https://github.com/pun33th45/ai-startup-agent/network)
+&nbsp;
+[![](https://img.shields.io/badge/OPEN_REPO→-22c55e?style=flat-square&labelColor=0d1117)](https://github.com/pun33th45/ai-startup-agent)
+
+</td>
+
+<td width="50%" valign="top">
+
+![](https://img.shields.io/badge/📱_MOBILE_·_REAL_WORLD_UTILITY-0d1117?style=flat-square&labelColor=0d1117&color=f59e0b)
+
+**`PARKMATE ANDROID`**
+
+> *Smart parking management for seamless urban mobility.*
+
+A native Android application that transforms the urban parking experience. Real-time spot discovery, booking, and navigation — designed for scale, built for daily use.
+
+```
+USER ──▶ Smart Parking Discovery
+              └──▶ Real-Time Availability Engine
+                     └──▶ Booking + Navigation
+                            └──▶ Seamless Urban Experience
+```
+
+<sub>`Android` &nbsp;·&nbsp; `Java / Kotlin` &nbsp;·&nbsp; `Firebase` &nbsp;·&nbsp; `Google Maps API` &nbsp;·&nbsp; `Material Design`</sub>
+
+<br/>
+
+[![](https://img.shields.io/github/stars/pun33th45/ParkMate-android?style=flat-square&color=f59e0b&labelColor=0d1117&label=★)](https://github.com/pun33th45/ParkMate-android/stargazers)
+&nbsp;
+[![](https://img.shields.io/badge/OPEN_REPO→-f59e0b?style=flat-square&labelColor=0d1117)](https://github.com/pun33th45/ParkMate-android)
+
+</td>
+
+</tr>
+
 </table>
 
 <br/>
 
----
-
-## `◈ Featured Work`
-
-<br/>
-
-<table>
-<tr>
-<td width="58%">
-
-### [AI Startup Agent](https://github.com/pun33th45/ai-startup-agent)
-> Startup intelligence engine powered by LLMs
-
-Enter a niche — get a complete startup report in seconds. Structured startup ideas, audience profiling, monetization blueprints, MVP roadmaps, and competitive analysis via a visual LLM pipeline built for speed.
-
-**Pipeline:** `Input → Prompt Layer → Groq/Llama 3 → Structured Parser → Intelligence Report`
-
-`Langflow` &nbsp;`Groq` &nbsp;`Llama 3` &nbsp;`Python` &nbsp;`Prompt Engineering`
-
-[![Stars](https://img.shields.io/github/stars/pun33th45/ai-startup-agent?style=flat-square&color=00d4ff&labelColor=161b22)](https://github.com/pun33th45/ai-startup-agent/stargazers)
-[![Forks](https://img.shields.io/github/forks/pun33th45/ai-startup-agent?style=flat-square&color=7c3aed&labelColor=161b22)](https://github.com/pun33th45/ai-startup-agent/network)
-[![License](https://img.shields.io/github/license/pun33th45/ai-startup-agent?style=flat-square&color=22c55e&labelColor=161b22)](https://github.com/pun33th45/ai-startup-agent/blob/main/LICENSE)
-
-</td>
-<td width="42%" align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pun33th45&repo=ai-startup-agent&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e)](https://github.com/pun33th45/ai-startup-agent)
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,50:00d4ff,100:020409&height=1" width="65%" />
+</div>
 
 <br/>
 
-<details>
-<summary><b>◈ What's Next</b></summary>
-<br/>
+<!-- ─────────── ◈ SIGNAL ──────────────────────────────────────────────── -->
 
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| **Workflow Generator** | Natural language → automation pipeline builder | Next.js · FastAPI · LangChain | `🔨 Building` |
-| **AI Automation Suite** | Autonomous task execution across APIs | Python · Multi-agent · Docker | `📐 Designing` |
-| **LLM Dev Toolkit** | Developer tooling for LLM app testing & evaluation | TypeScript · CLI · Evals | `💡 Ideating` |
-
-</details>
-
-<br/>
-
----
-
-## `◈ GitHub Analytics`
+## `◈ SIGNAL`
 
 <br/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pun33th45&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pun33th45&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b949e&layout=compact&langs_count=6&card_width=320" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pun33th45&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b949e&layout=compact&langs_count=7&card_width=400" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=pun33th45&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" alt="Streak Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pun33th45&bg_color=0d1117&color=00d4ff&line=00d4ff&point=7c3aed&area=true&hide_border=true&area_color=00d4ff15&title_color=00d4ff" width="100%" alt="Activity Graph" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=pun33th45&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=6&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=pun33th45&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=6&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" alt="Trophies" />
 
 </div>
 
 <br/>
 
----
-
-## `◈ Contribution Activity`
-
-<br/>
+<!-- ─────────── ACTIVITY TRACE ────────────────────────────────────────── -->
 
 <div align="center">
 
@@ -194,16 +348,14 @@ Enter a niche — get a complete startup report in seconds. Structured startup i
 <summary><sub>Set up the contribution snake (one-time)</sub></summary>
 <br/>
 
-Create `.github/workflows/snake.yml` in your `pun33th45/pun33th45` profile repo:
+Create `.github/workflows/snake.yml` in your `pun33th45/pun33th45` repo:
 
 ```yaml
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -222,62 +374,76 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-After first run, the SVG files appear at `output` branch and render automatically.
-
 </details>
 
 <br/>
 
----
-
-## `◈ Philosophy`
-
-<br/>
-
 <div align="center">
-
-```
-Build systems that think.
-Ship products that matter.
-Make the invisible — inevitable.
-```
-
-*Every line of code moves closer to autonomous intelligence at scale.*
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,50:00d4ff,100:020409&height=1" width="65%" />
 </div>
 
 <br/>
 
----
-
-## `◈ Connect`
+<!-- ─────────── ◈ DIRECTIVE ───────────────────────────────────────────── -->
 
 <br/>
 
 <div align="center">
 
-<a href="https://github.com/pun33th45">
-  <img src="https://img.shields.io/badge/GitHub-pun33th45-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" />
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   Build systems that think.                             ║
+║   Ship products that matter.                            ║
+║   Make the invisible — inevitable.                      ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<sub><i>Every system I build moves toward autonomous intelligence at scale.</i></sub>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,50:00d4ff,100:020409&height=1" width="65%" />
+</div>
+
+<br/>
+
+<!-- ─────────── ◈ UPLINK ──────────────────────────────────────────────── -->
+
+## `◈ UPLINK`
+
+<br/>
+
+<div align="center">
+
+<a href="https://puneeth-dev.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT_SITE-22c55e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161b22" />
 </a>
 &nbsp;
-<a href="mailto:puneethraaaj@gmail.com">
-  <img src="https://img.shields.io/badge/Email-puneethraaaj@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Email" />
+<a href="https://github.com/pun33th45">
+  <img src="https://img.shields.io/badge/GITHUB-pun33th45-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/puneeth-raj-774506211/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" />
+</a>
+&nbsp;
+<a href="mailto:puneethraaaj@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-MESSAGE-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" />
 </a>
 
 <br/><br/>
 
-<sub>Building something at the frontier? Always open to conversations that push the boundary.</sub>
+<sub>Building at the frontier. Always open to conversations that push the boundary.</sub>
 
 </div>
 
 <br/><br/>
 
----
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050a14,50:0d1117,100:050a14&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,50:0a0e1a,100:020409&height=120&section=footer" width="100%" />
 </div>
