@@ -7,28 +7,21 @@
 
 <!-- ─────────── HERO ─────────────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,50:0a0e1a,100:0d1117&height=250&section=header&text=Puneeth%20Raj&fontSize=72&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Aspiring%20AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Automation%20Engineer&descSize=16&descAlignY=63&descColor=8b949e" width="100%" />
-
-<!-- LIVE STATS ROW -->
-<img src="https://img.shields.io/github/followers/pun33th45?style=for-the-badge&logo=github&color=00d4ff&labelColor=0d1117&label=FOLLOWERS" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/pun33th45?style=for-the-badge&logo=github&affiliations=OWNER&color=f59e0b&labelColor=0d1117&label=STARS" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=pun33th45&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&labelColor=0d1117" />
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,50:0a0e1a,100:0d1117&height=160&section=header&text=Puneeth%20Raj&fontSize=48&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Aspiring%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=14&descAlignY=65&descColor=8b949e" width="100%" />
 
 <!-- TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=45&lines=Building+LLM+Pipelines+%26+AI+Agents;Automation+Engineer+%40+Proxim+Wireless;RAG+%C2%B7+Workflows+%C2%B7+Full+Stack+Dev;Open+to+Collaborate+%7C+Hyderabad%2C+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&height=35&lines=Building+LLM+Pipelines+%26+AI+Agents;Automation+Engineer+%40+Proxim+Wireless;RAG+%C2%B7+Workflows+%C2%B7+Full+Stack+Dev;Open+to+Collaborate+%7C+Hyderabad%2C+India" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 <!-- INFO PILLS -->
+<img src="https://komarev.com/ghpvc/?username=pun33th45&style=flat-square&color=00d4ff&label=VIEWS&labelColor=0d1117" />
+&nbsp;
 <img src="https://img.shields.io/badge/ASPIRING_AI_ENGINEER-00d4ff?style=flat-square&labelColor=0d1117" />
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://img.shields.io/badge/OPEN_TO_COLLABORATE-22c55e?style=flat-square&labelColor=0d1117" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HYDERABAD_·_INDIA-8b949e?style=flat-square&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/HYDERABAD_·_IN-8b949e?style=flat-square&labelColor=0d1117" />
 
 <br/><br/>
 
