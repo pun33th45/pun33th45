@@ -7,28 +7,28 @@
 
 <!-- ─────────── HERO ─────────────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=vortex&color=0:020409,25:050d1a,55:0a0e1a,80:0d1117,100:020409&height=360&section=header&text=PUNEETH%20RAJ&fontSize=82&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Automation%20Engineer&descSize=15&descAlignY=60&descColor=6b7280" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,50:0a0e1a,100:0d1117&height=250&section=header&text=Puneeth%20Raj&fontSize=72&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Aspiring%20AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Automation%20Engineer&descSize=16&descAlignY=63&descColor=8b949e" width="100%" />
 
-<br/>
-
-<!-- AVATAR -->
-<img src="https://github.com/pun33th45.png" width="90" height="90" />
-
-<br/>
-
-<!-- TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2400&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=680&height=42&lines=Building+LLM+Pipelines+%26+AI+Agents;QA+Automation+Engineer+%40+Proxim+Wireless;RAG+Systems+%C2%B7+Workflows+%C2%B7+Full+Stack+Dev;Open+to+Collaborate+%7C+puneeth-dev.vercel.app" alt="Typing SVG" />
+<!-- LIVE STATS ROW -->
+<img src="https://img.shields.io/github/followers/pun33th45?style=for-the-badge&logo=github&color=00d4ff&labelColor=0d1117&label=FOLLOWERS" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/pun33th45?style=for-the-badge&logo=github&affiliations=OWNER&color=f59e0b&labelColor=0d1117&label=STARS" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=pun33th45&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&labelColor=0d1117" />
 
 <br/><br/>
 
-<!-- STATUS PILLS -->
-<img src="https://komarev.com/ghpvc/?username=pun33th45&style=for-the-badge&color=0d1117&label=VISITORS&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/ASPIRING_AI_ENGINEER-00d4ff?style=for-the-badge&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/OPEN_TO_COLLABORATE-7c3aed?style=for-the-badge&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/HYDERABAD_·_IN-161b22?style=for-the-badge&labelColor=161b22&color=8b949e" />
+<!-- TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=45&lines=Building+LLM+Pipelines+%26+AI+Agents;Automation+Engineer+%40+Proxim+Wireless;RAG+%C2%B7+Workflows+%C2%B7+Full+Stack+Dev;Open+to+Collaborate+%7C+Hyderabad%2C+India" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- INFO PILLS -->
+<img src="https://img.shields.io/badge/ASPIRING_AI_ENGINEER-00d4ff?style=flat-square&labelColor=0d1117" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/OPEN_TO_COLLABORATE-22c55e?style=flat-square&labelColor=0d1117" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HYDERABAD_·_INDIA-8b949e?style=flat-square&labelColor=0d1117" />
 
 <br/><br/>
 
