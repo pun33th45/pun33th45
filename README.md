@@ -66,11 +66,11 @@ $ cat links.json
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pun33th45&theme=github_dark" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pun33th45&theme=github_dark" alt="Stats" width="100%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=pun33th45&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=pun33th45&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" alt="Streak" width="100%" />
 
 </td>
 </tr>
