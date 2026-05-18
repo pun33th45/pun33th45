@@ -1,107 +1,283 @@
-#  Hi 👋, I'm Puneeth raj
-**A passionate Web devoloper || Frontend || From Hyderabad,India**
-
-<img align="right" height="200" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlidWttcHB0OHY0dHl2YWJxNHdzOGxqaG1jMWFrY2w3dWlxcnlwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
-
-📩 **Email Me 👉** ✉️ puneethraaaj@gmail.com , 🤝 Collaboration • Projects • Ideas
-
-🚀 Passionate about building scalable, user-friendly web applications  
-🌱 Currently mastering **MERN Stack** (MongoDB | Express | React | Node.js)  
-💡 Interested in **clean code, UI/UX, and system design**  
-📚 Lifelong learner & open-source enthusiast  
-🤝 Let’s connect and build something amazing together!
-
-
-<!-- BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/pun33th45?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/pun33th45?style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=pun33th45&style=for-the-badge">
-</p>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pun33th._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puneeth-raj-774506211) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:puneethraaaj@gmail.com) 
-
-# 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-
-# 📊 GitHub Stats
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  GITHUB PROFILE — pun33th45                                              -->
+<!--  Copy this file to the pun33th45/pun33th45 repo as README.md             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Summary Cards -->
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pun33th45&theme=radical" />
+<!-- ─────────────────────────── HERO BANNER ─────────────────────────── -->
 
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pun33th45&theme=radical" />
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pun33th45&theme=radical" />
+<img src="https://capsule-render.vercel.app/api?type=vortex&color=0:050a14,35:0d1117,65:0a0e1a,100:050a14&height=290&section=header&text=PUNEETH%20RAJ&fontSize=68&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%94%20Building%20Systems%20That%20Think%2C%20Adapt%2C%20and%20Scale&descSize=16&descAlignY=63&descColor=8b949e" width="100%" />
 
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pun33th45&theme=radical" />
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pun33th45&theme=radical&utcOffset=8" />
+<br/>
 
+<!-- ─────────────────────────── TYPING ANIMATION ─────────────────────────── -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=AI+Engineer+%7C+Full+Stack+Developer;LLM+Pipelines+%7C+AI+Agents+%7C+RAG+Systems;LangChain+%7C+FastAPI+%7C+Next.js+%7C+Docker;Shipping+intelligent+systems+from+Hyderabad." alt="Typing Animation" />
+
+<br/><br/>
+
+<!-- ─────────────────────────── STATUS PILLS ─────────────────────────── -->
+
+<img src="https://komarev.com/ghpvc/?username=pun33th45&style=flat-square&color=00d4ff&label=VISITORS&labelColor=161b22" alt="visitors" />
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-Hyderabad%2C_India-00d4ff?style=flat-square&labelColor=161b22" alt="location" />
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-AI_Engineering-7c3aed?style=flat-square&labelColor=161b22" alt="focus" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Open_to_Collaborate-22c55e?style=flat-square&labelColor=161b22" alt="status" />
 
 </div>
 
+<br/><br/>
 
-## ✍️ **Quote of the Day**
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pun33th45&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
-[![](https://visitcount.itsvg.in/api?id=pun33th45&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `◈ Identity`
+
+```yaml
+name     : Puneeth Raj
+role     : AI Engineer · Full Stack Developer
+location : Hyderabad, India
+
+building : Autonomous AI agents, LLM-powered backends, intelligent full-stack systems
+mindset  : Ship fast. Think in systems. Build for scale.
+open_to  : Collaborations · AI projects · Open source · High-impact engineering roles
+```
+
+I work at the boundary of AI and product — not prompt wrappers, but real infrastructure. Multi-agent orchestration, RAG pipelines, production-grade APIs, and full-stack interfaces that make AI usable. I build what ships.
+
+<br/>
+
+---
+
+## `◈ Current Focus`
+
+```python
+this_season = {
+    "shipping"  : "AI Startup Agent — LLM workflow engine (Langflow + Groq + Llama 3)",
+    "building"  : ["autonomous multi-agent systems", "AI-first full-stack products"],
+    "exploring" : ["LangGraph", "RAG at scale", "LLM infrastructure", "edge AI"],
+    "reading"   : ["Attention Is All You Need", "Building LLMs from scratch", "agent memory architectures"],
+}
+```
+
+<br/>
+
+---
+
+## `◈ Tech Arsenal`
+
+<br/>
+
+<table width="100%">
+<tr>
+
+<td valign="top" width="25%" align="center">
+<b>AI / Machine Learning</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" /><br/><br/>
+<sub>LangChain · LangGraph · LlamaIndex<br/>Groq · HuggingFace · OpenAI<br/>Anthropic · RAG · Vector DBs</sub>
+</td>
+
+<td valign="top" width="25%" align="center">
+<b>Backend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgres&theme=dark" /><br/><br/>
+<sub>REST · WebSockets · Auth<br/>Async Python · Pydantic · Redis<br/>JWT · Firebase</sub>
+</td>
+
+<td valign="top" width="25%" align="center">
+<b>Frontend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vite&theme=dark" /><br/><br/>
+<sub>shadcn/ui · Framer Motion<br/>React Query · Zustand<br/>Server Components</sub>
+</td>
+
+<td valign="top" width="25%" align="center">
+<b>Infra & Tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,vercel,firebase&theme=dark" /><br/><br/>
+<sub>GitHub Actions · CI/CD<br/>Render · Railway<br/>Hugging Face Spaces</sub>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+## `◈ Featured Work`
+
+<br/>
+
+<table>
+<tr>
+<td width="58%">
+
+### [AI Startup Agent](https://github.com/pun33th45/ai-startup-agent)
+> Startup intelligence engine powered by LLMs
+
+Enter a niche — get a complete startup report in seconds. Structured startup ideas, audience profiling, monetization blueprints, MVP roadmaps, and competitive analysis via a visual LLM pipeline built for speed.
+
+**Pipeline:** `Input → Prompt Layer → Groq/Llama 3 → Structured Parser → Intelligence Report`
+
+`Langflow` &nbsp;`Groq` &nbsp;`Llama 3` &nbsp;`Python` &nbsp;`Prompt Engineering`
+
+[![Stars](https://img.shields.io/github/stars/pun33th45/ai-startup-agent?style=flat-square&color=00d4ff&labelColor=161b22)](https://github.com/pun33th45/ai-startup-agent/stargazers)
+[![Forks](https://img.shields.io/github/forks/pun33th45/ai-startup-agent?style=flat-square&color=7c3aed&labelColor=161b22)](https://github.com/pun33th45/ai-startup-agent/network)
+[![License](https://img.shields.io/github/license/pun33th45/ai-startup-agent?style=flat-square&color=22c55e&labelColor=161b22)](https://github.com/pun33th45/ai-startup-agent/blob/main/LICENSE)
+
+</td>
+<td width="42%" align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pun33th45&repo=ai-startup-agent&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e)](https://github.com/pun33th45/ai-startup-agent)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<details>
+<summary><b>◈ What's Next</b></summary>
+<br/>
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| **Workflow Generator** | Natural language → automation pipeline builder | Next.js · FastAPI · LangChain | `🔨 Building` |
+| **AI Automation Suite** | Autonomous task execution across APIs | Python · Multi-agent · Docker | `📐 Designing` |
+| **LLM Dev Toolkit** | Developer tooling for LLM app testing & evaluation | TypeScript · CLI · Evals | `💡 Ideating` |
+
+</details>
+
+<br/>
+
+---
+
+## `◈ GitHub Analytics`
+
+<br/>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pun33th45&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pun33th45&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b949e&layout=compact&langs_count=6&card_width=320" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=pun33th45&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" alt="Streak Stats" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=pun33th45&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=6&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
+---
+
+## `◈ Contribution Activity`
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pun33th45/pun33th45/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pun33th45/pun33th45/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/pun33th45/pun33th45/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<details>
+<summary><sub>Set up the contribution snake (one-time)</sub></summary>
+<br/>
+
+Create `.github/workflows/snake.yml` in your `pun33th45/pun33th45` profile repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After first run, the SVG files appear at `output` branch and render automatically.
+
+</details>
+
+<br/>
+
+---
+
+## `◈ Philosophy`
+
+<br/>
+
+<div align="center">
+
+```
+Build systems that think.
+Ship products that matter.
+Make the invisible — inevitable.
+```
+
+*Every line of code moves closer to autonomous intelligence at scale.*
+
+</div>
+
+<br/>
+
+---
+
+## `◈ Connect`
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/pun33th45">
+  <img src="https://img.shields.io/badge/GitHub-pun33th45-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" />
+</a>
+&nbsp;
+<a href="mailto:puneethraaaj@gmail.com">
+  <img src="https://img.shields.io/badge/Email-puneethraaaj@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Email" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/puneeth-raj-774506211/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn" />
+</a>
+
+<br/><br/>
+
+<sub>Building something at the frontier? Always open to conversations that push the boundary.</sub>
+
+</div>
+
+<br/><br/>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050a14,50:0d1117,100:050a14&height=100&section=footer" width="100%" />
+</div>
