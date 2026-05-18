@@ -51,7 +51,7 @@ $ cat mission.txt
   Make intelligence — accessible.
 
 $ ps aux | grep current
-  [●] QA Automation Engineering @ Proxim Wireless
+  [●] QA Automation Intern @ Proxim Wireless
   [●] LLM pipelines · AI agents · RAG systems
   [●] AI-first full-stack products
 
@@ -89,45 +89,6 @@ $ ls ./open_to/
 
 <br/>
 
-<!-- ─────────── ◈ MISSION LOG ────────────────────────────────────────── -->
-
-## `◈ MISSION LOG`
-
-<br/>
-
-```
-OPERATIONS LOG ──────────────────────────────────────────────────────────────
-ORGANIZATION  Proxim Wireless
-──────────────────────────────────────────────────────────────────────────────
-
-[● ACTIVE]   2026.03 → PRESENT
-  ROLE       QA Intern · Automation Engineering
-  ─────────────────────────────────────────────────────────────────────────
-  Developing Python-based automation frameworks to expand test coverage
-  and systematically eliminate manual testing overhead across QA cycles.
-
-  SKILLS     Python  ·  Automation Testing  ·  Test Frameworks  ·  CI/CD
-
-
-[◎ CLOSED]   2025.10 → 2026.02
-  ROLE       Web Development Intern
-  LOCATION   Hyderabad, Telangana
-  ─────────────────────────────────────────────────────────────────────────
-  Built and shipped production web applications end-to-end.
-  Optimized frontend architecture, performance, and user experience.
-
-  SKILLS     JavaScript  ·  React  ·  Frontend Development  ·  Web Apps
-
-──────────────────────────────────────────────────────────────────────────────
-```
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,50:00d4ff,100:020409&height=1" width="65%" />
-</div>
-
-<br/>
 
 <!-- ─────────── ◈ STACK ───────────────────────────────────────────────── -->
 
