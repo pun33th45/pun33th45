@@ -5,16 +5,12 @@
 
 <div align="center">
 
-<!-- ─────────── HERO ─────────────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,50:0a0e1a,100:0d1117&height=110&section=header&text=Puneeth%20Raj&fontSize=36&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Aspiring%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=13&descAlignY=68&descColor=8b949e" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,50:0a0e1a,100:0d1117&height=160&section=header&text=Puneeth%20Raj&fontSize=48&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Aspiring%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=14&descAlignY=65&descColor=8b949e" width="100%" />
-
-<!-- TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&height=35&lines=Building+LLM+Pipelines+%26+AI+Agents;Automation+Engineer+%40+Proxim+Wireless;RAG+%C2%B7+Workflows+%C2%B7+Full+Stack+Dev;Open+to+Collaborate+%7C+Hyderabad%2C+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=520&height=26&lines=Building+LLM+Pipelines+%26+AI+Agents;QA+Automation+Intern+%40+Proxim+Wireless;RAG+%C2%B7+Workflows+%C2%B7+Full+Stack+Dev;Open+to+Collaborate+%7C+Hyderabad%2C+India" alt="Typing SVG" />
 
 <br/>
 
-<!-- INFO PILLS -->
 <img src="https://komarev.com/ghpvc/?username=pun33th45&style=flat-square&color=00d4ff&label=VIEWS&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/ASPIRING_AI_ENGINEER-00d4ff?style=flat-square&labelColor=0d1117" />
@@ -23,10 +19,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/HYDERABAD_·_IN-8b949e?style=flat-square&labelColor=0d1117" />
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,50:00d4ff,100:020409&height=1" width="65%" />
-
 </div>
 
 <br/>
@@ -34,8 +26,6 @@
 <!-- ─────────── ◈ INIT ────────────────────────────────────────────────── -->
 
 ## `◈ INIT`
-
-<br/>
 
 <table width="100%">
 <tr>
