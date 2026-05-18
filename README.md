@@ -297,7 +297,7 @@ USER ──▶ Smart Parking Discovery
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pun33th45&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b949e&layout=compact&langs_count=7&card_width=400" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pun33th45&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b949e&layout=compact&langs_count=6" alt="Top Languages" />
 
 <br/><br/>
 
