@@ -101,7 +101,7 @@ $ cat links.json
 
 <sub>`LangChain` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `LlamaIndex` &nbsp;·&nbsp; `Groq` &nbsp;·&nbsp; `HuggingFace` &nbsp;·&nbsp; `OpenAI API` &nbsp;·&nbsp; `Anthropic` &nbsp;·&nbsp; `RAG` &nbsp;·&nbsp; `Vector DBs` &nbsp;·&nbsp; `Prompt Engineering`</sub>
 
-<br/><br/>
+<br/>
 
 <sub>**`⟨  Backend  ⟩`**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**`⟨  Frontend  ⟩`**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**`⟨  Infra  ⟩`**</sub>
 
@@ -119,17 +119,9 @@ $ cat links.json
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,50:00d4ff,100:020409&height=1" width="65%" />
-</div>
-
-<br/>
-
 <!-- ─────────── ◈ BUILDS ──────────────────────────────────────────────── -->
 
 ## `◈ BUILDS`
-
-<br/>
 
 <table width="100%">
 
@@ -154,8 +146,6 @@ PROMPT ──▶ LLM Orchestration
 ```
 
 <sub>`Python` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `n8n API` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `LLM Orchestration`</sub>
-
-<br/>
 
 [![](https://img.shields.io/github/stars/pun33th45/n8n-workflow-generator?style=flat-square&color=f59e0b&labelColor=0d1117&label=★)](https://github.com/pun33th45/n8n-workflow-generator/stargazers)
 &nbsp;
@@ -182,8 +172,6 @@ QUERY ──▶ Vector Retrieval (Semantic Search)
 
 <sub>`Python` &nbsp;·&nbsp; `LlamaIndex` &nbsp;·&nbsp; `ChromaDB` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `OpenAI / Groq`</sub>
 
-<br/>
-
 [![](https://img.shields.io/github/stars/pun33th45/RAG-Based-Developer-Assistant?style=flat-square&color=f59e0b&labelColor=0d1117&label=★)](https://github.com/pun33th45/RAG-Based-Developer-Assistant/stargazers)
 &nbsp;
 [![](https://img.shields.io/badge/OPEN_REPO→-7c3aed?style=flat-square&labelColor=0d1117)](https://github.com/pun33th45/RAG-Based-Developer-Assistant)
@@ -191,9 +179,6 @@ QUERY ──▶ Vector Retrieval (Semantic Search)
 </td>
 
 </tr>
-
-<!-- ── ROW SPACER ── -->
-<tr><td colspan="2"><br/></td></tr>
 
 <!-- ── ROW 2 ── -->
 <tr>
@@ -216,8 +201,6 @@ NICHE ──▶ Prompt Layer
 ```
 
 <sub>`Langflow` &nbsp;·&nbsp; `Groq` &nbsp;·&nbsp; `Llama 3` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `Prompt Engineering`</sub>
-
-<br/>
 
 [![](https://img.shields.io/github/stars/pun33th45/ai-startup-agent?style=flat-square&color=f59e0b&labelColor=0d1117&label=★)](https://github.com/pun33th45/ai-startup-agent/stargazers)
 &nbsp;
@@ -246,8 +229,6 @@ USER ──▶ Smart Parking Discovery
 
 <sub>`Android` &nbsp;·&nbsp; `Java / Kotlin` &nbsp;·&nbsp; `Firebase` &nbsp;·&nbsp; `Google Maps API` &nbsp;·&nbsp; `Material Design`</sub>
 
-<br/>
-
 [![](https://img.shields.io/github/stars/pun33th45/ParkMate-android?style=flat-square&color=f59e0b&labelColor=0d1117&label=★)](https://github.com/pun33th45/ParkMate-android/stargazers)
 &nbsp;
 [![](https://img.shields.io/badge/OPEN_REPO→-f59e0b?style=flat-square&labelColor=0d1117)](https://github.com/pun33th45/ParkMate-android)
@@ -260,17 +241,9 @@ USER ──▶ Smart Parking Discovery
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,50:00d4ff,100:020409&height=1" width="65%" />
-</div>
-
-<br/>
-
 <!-- ─────────── ◈ SIGNAL ──────────────────────────────────────────────── -->
 
 ## `◈ SIGNAL`
-
-<br/>
 
 <div align="center">
 
@@ -278,21 +251,13 @@ USER ──▶ Smart Parking Discovery
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pun33th45&theme=github_dark" alt="Most Used Languages" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pun33th45&bg_color=0d1117&color=00d4ff&line=00d4ff&point=7c3aed&area=true&hide_border=true&area_color=00d4ff15&title_color=00d4ff" width="100%" alt="Activity Graph" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=pun33th45&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=6&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" alt="Trophies" />
-
-</div>
-
 <br/>
 
-<!-- ─────────── ACTIVITY TRACE ────────────────────────────────────────── -->
-
-<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pun33th45&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=6&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" alt="Trophies" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pun33th45/pun33th45/output/github-contribution-grid-snake-dark.svg" />
@@ -304,7 +269,6 @@ USER ──▶ Smart Parking Discovery
 
 <details>
 <summary><sub>Set up the contribution snake (one-time)</sub></summary>
-<br/>
 
 Create `.github/workflows/snake.yml` in your `pun33th45/pun33th45` repo:
 
@@ -336,25 +300,15 @@ jobs:
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,50:00d4ff,100:020409&height=1" width="65%" />
-</div>
-
-<br/>
-
 <!-- ─────────── ◈ DIRECTIVE ───────────────────────────────────────────── -->
-
-<br/>
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║                                                          ║
 ║   Build systems that think.                             ║
 ║   Ship products that matter.                            ║
 ║   Make the invisible — inevitable.                      ║
-║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -362,19 +316,11 @@ jobs:
 
 </div>
 
-<br/><br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,50:00d4ff,100:020409&height=1" width="65%" />
-</div>
-
 <br/>
 
 <!-- ─────────── ◈ UPLINK ──────────────────────────────────────────────── -->
 
 ## `◈ UPLINK`
-
-<br/>
 
 <div align="center">
 
@@ -394,14 +340,14 @@ jobs:
   <img src="https://img.shields.io/badge/EMAIL-MESSAGE-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" />
 </a>
 
-<br/><br/>
+<br/>
 
 <sub>Building at the frontier. Always open to conversations that push the boundary.</sub>
 
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,50:0a0e1a,100:020409&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,50:0a0e1a,100:020409&height=80&section=footer" width="100%" />
 </div>
