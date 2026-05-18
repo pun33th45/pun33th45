@@ -33,11 +33,11 @@
 
 <!-- ─────────── ◈ INIT ────────────────────────────────────────────────── -->
 
+## `◈ INIT`
+
 <table width="100%">
 <tr>
-<td width="52%" valign="top">
-
-## `◈ INIT`
+<td width="50%" valign="top">
 
 ```bash
 $ whoami
@@ -67,15 +67,13 @@ $ ls ./open_to/
 ```
 
 </td>
-<td width="48%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pun33th45&theme=github_dark" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pun33th45&theme=github_dark" alt="Stats" width="100%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=pun33th45&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=pun33th45&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" alt="Streak" width="100%" />
 
 <br/>
 
@@ -83,15 +81,12 @@ $ ls ./open_to/
 
 ```yaml
 role     : QA Automation Intern
-status   : ● Active  ·  Mar 2026 → Present
+status   : ● Active · Mar 2026 → Present
 location : Hyderabad, India
-
 building :
-  - Python-based automation frameworks
+  - Python automation frameworks
   - Expanding QA test coverage
-  - Eliminating manual testing overhead
-  - Building reliable CI/CD pipelines
-
+  - Eliminating manual test overhead
 stack    : Python · Pytest · Automation · CI/CD
 ```
 
