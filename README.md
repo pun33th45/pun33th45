@@ -35,6 +35,8 @@
 
 ## `◈ INIT`
 
+<br/>
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -42,7 +44,7 @@
 ```bash
 $ whoami
   PUNEETH RAJ
-  Aspiring AI Engineer · Full Stack Developer
+  Aspiring AI Engineer · Full Stack Dev
   Hyderabad, India
 
 $ cat mission.txt
@@ -52,47 +54,37 @@ $ cat mission.txt
 
 $ ps aux | grep current
   [●] QA Automation Intern @ Proxim Wireless
-  [●] LLM pipelines · AI agents · RAG systems
+  [●] LLM Pipelines · AI Agents · RAG Systems
   [●] AI-first full-stack products
 
 $ cat links.json
-  portfolio : https://puneeth-dev.vercel.app
+  portfolio : puneeth-dev.vercel.app
   github    : github.com/pun33th45
   email     : puneethraaaj@gmail.com
-
-$ ls ./open_to/
-  ai_collaborations/
-  open_source_projects/
-  high_impact_eng_roles/
 ```
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pun33th45&theme=github_dark" alt="Stats" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pun33th45&theme=github_dark" alt="Stats" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=pun33th45&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" alt="Streak" width="100%" />
-
-<br/>
-
-![](https://img.shields.io/badge/◈%20CURRENTLY%20AT-Proxim%20Wireless-22c55e?style=flat-square&labelColor=161b22&color=22c55e)
-
-```yaml
-role     : QA Automation Intern
-status   : ● Active · Mar 2026 → Present
-location : Hyderabad, India
-building :
-  - Python automation frameworks
-  - Expanding QA test coverage
-  - Eliminating manual test overhead
-stack    : Python · Pytest · Automation · CI/CD
-```
+<img src="https://streak-stats.demolab.com?user=pun33th45&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" alt="Streak" />
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/◈%20CURRENTLY%20AT-Proxim%20Wireless-22c55e?style=flat-square&labelColor=161b22&color=22c55e)
+
+<sub>`QA Automation Intern` &nbsp;·&nbsp; `Mar 2026 → Present` &nbsp;·&nbsp; `Python · Pytest · Automation · CI/CD`</sub>
+
+</div>
 
 <br/>
 
