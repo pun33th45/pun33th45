@@ -79,15 +79,20 @@ $ ls ./open_to/
 
 <br/>
 
+![](https://img.shields.io/badge/◈%20CURRENTLY%20AT-Proxim%20Wireless-22c55e?style=flat-square&labelColor=161b22&color=22c55e)
+
 ```yaml
-current_role:
-  company : Proxim Wireless
-  title   : QA Automation Intern
-  since   : Mar 2026 · Present
-  focus   :
-    - Python automation frameworks
-    - Expanding QA test coverage
-    - Eliminating manual test overhead
+role     : QA Automation Intern
+status   : ● Active  ·  Mar 2026 → Present
+location : Hyderabad, India
+
+building :
+  - Python-based automation frameworks
+  - Expanding QA test coverage
+  - Eliminating manual testing overhead
+  - Building reliable CI/CD pipelines
+
+stack    : Python · Pytest · Automation · CI/CD
 ```
 
 </td>
