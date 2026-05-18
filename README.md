@@ -77,6 +77,19 @@ $ ls ./open_to/
 
 <img src="https://streak-stats.demolab.com?user=pun33th45&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" alt="Streak" />
 
+<br/>
+
+```yaml
+current_role:
+  company : Proxim Wireless
+  title   : QA Automation Intern
+  since   : Mar 2026 · Present
+  focus   :
+    - Python automation frameworks
+    - Expanding QA test coverage
+    - Eliminating manual test overhead
+```
+
 </td>
 </tr>
 </table>
