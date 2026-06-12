@@ -1,277 +1,140 @@
-<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
 <style>
-  .n{animation:np 2s ease-in-out infinite}
-  .n2{animation:np 2.6s ease-in-out infinite;animation-delay:.6s}
-  .n3{animation:np 1.9s ease-in-out infinite;animation-delay:1.1s}
-  .gt{animation:glitch 8s ease-in-out infinite}
-  .sl{animation:scan 5s linear infinite}
-  .df{animation:dflow 9s linear infinite}
-  .df2{animation:dflow 13s linear infinite;animation-delay:-5s}
-  .df3{animation:dflow 11s linear infinite;animation-delay:-8s}
-  .bp{animation:bpulse 1.9s ease-in-out infinite}
-  .rp{animation:bpulse 1.9s ease-in-out infinite;animation-delay:.95s}
-  @keyframes np{0%,100%{opacity:.15}50%{opacity:1}}
-  @keyframes glitch{
-    0%,78%,100%{transform:translate(0,0);opacity:1}
-    79%{transform:translate(-3px,0);opacity:.9}
-    80%{transform:translate(3px,0);opacity:.85}
-    81%{transform:translate(0,0);opacity:1}
-    88%{transform:translate(-2px,1px);opacity:.9}
-    89%{transform:translate(2px,-1px);opacity:1}
-    90%{transform:translate(0,0)}
-  }
-  @keyframes scan{0%{transform:translateY(-90px)}100%{transform:translateY(350px)}}
-  @keyframes dflow{0%{transform:translateX(-320px)}100%{transform:translateX(1220px)}}
-  @keyframes bpulse{0%,100%{opacity:.45}50%{opacity:1}}
-  @keyframes dot{0%,100%{opacity:.08}50%{opacity:.25}}
+  .hl{animation:hA 5s ease-in-out infinite}
+  .cd{animation:cA 4s ease-in-out infinite}
+  @keyframes hA{0%,100%{opacity:.2}50%{opacity:.45}}
+  @keyframes cA{0%,100%{opacity:.55;r:3}50%{opacity:1;r:4}}
 </style>
 <defs>
-  <radialGradient id="bg" cx="50%" cy="42%" r="78%">
-    <stop offset="0%" stop-color="#0d1c30"/>
-    <stop offset="45%" stop-color="#07101e"/>
-    <stop offset="100%" stop-color="#020409"/>
+  <linearGradient id="cg" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%"   stop-color="#131827"/>
+    <stop offset="55%"  stop-color="#0d1020"/>
+    <stop offset="100%" stop-color="#07070d"/>
+  </linearGradient>
+  <radialGradient id="tl" cx="6%" cy="8%" r="48%">
+    <stop offset="0%"   stop-color="#ffffff" stop-opacity=".065"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
   </radialGradient>
-  <radialGradient id="aL" cx="12%" cy="52%" r="38%">
-    <stop offset="0%" stop-color="#7c3aed" stop-opacity=".2"/>
-    <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+  <linearGradient id="rj" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%"  stop-color="#607a90"/>
+    <stop offset="100%" stop-color="#80a8c0"/>
+  </linearGradient>
+  <radialGradient id="hl" cx="50%" cy="50%" r="50%">
+    <stop offset="45%"  stop-color="#181d50" stop-opacity="0"/>
+    <stop offset="78%"  stop-color="#181d50" stop-opacity=".28"/>
+    <stop offset="100%" stop-color="#181d50" stop-opacity="0"/>
   </radialGradient>
-  <radialGradient id="aR" cx="88%" cy="52%" r="38%">
-    <stop offset="0%" stop-color="#00d4ff" stop-opacity=".13"/>
-    <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
-  </radialGradient>
-  <radialGradient id="aC" cx="50%" cy="54%" r="28%">
-    <stop offset="0%" stop-color="#00d4ff" stop-opacity=".05"/>
-    <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
-  </radialGradient>
-  <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#9d50e8"/>
-    <stop offset="30%" stop-color="#00d4ff"/>
-    <stop offset="55%" stop-color="#00eaff"/>
-    <stop offset="80%" stop-color="#00d4ff"/>
-    <stop offset="100%" stop-color="#9d50e8"/>
-  </linearGradient>
-  <linearGradient id="sg" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0%" stop-color="#00d4ff" stop-opacity="0"/>
-    <stop offset="50%" stop-color="#00d4ff" stop-opacity=".055"/>
-    <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
-  </linearGradient>
-  <linearGradient id="dfg" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#00d4ff" stop-opacity="0"/>
-    <stop offset="25%" stop-color="#00d4ff" stop-opacity=".55"/>
-    <stop offset="75%" stop-color="#00d4ff" stop-opacity=".55"/>
-    <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
-  </linearGradient>
-  <linearGradient id="dfg2" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#7c3aed" stop-opacity="0"/>
-    <stop offset="25%" stop-color="#7c3aed" stop-opacity=".45"/>
-    <stop offset="75%" stop-color="#7c3aed" stop-opacity=".45"/>
-    <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
-  </linearGradient>
-  <linearGradient id="ll" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#00d4ff" stop-opacity="0"/>
-    <stop offset="100%" stop-color="#00d4ff" stop-opacity=".85"/>
-  </linearGradient>
-  <linearGradient id="lr" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#00d4ff" stop-opacity=".85"/>
-    <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
-  </linearGradient>
-  <pattern id="hex" x="0" y="0" width="22" height="19.05" patternUnits="userSpaceOnUse">
-    <polygon points="11,0 22,5.5 22,13.55 11,19.05 0,13.55 0,5.5" fill="none" stroke="#00d4ff" stroke-width=".35"/>
-  </pattern>
-  <filter id="tglow" x="-18%" y="-60%" width="136%" height="220%">
-    <feGaussianBlur stdDeviation="10" result="b1"/>
-    <feGaussianBlur stdDeviation="5" result="b2" in="SourceGraphic"/>
-    <feMerge>
-      <feMergeNode in="b1"/>
-      <feMergeNode in="b1"/>
-      <feMergeNode in="b2"/>
-      <feMergeNode in="SourceGraphic"/>
-    </feMerge>
-  </filter>
-  <filter id="ng" x="-80%" y="-80%" width="260%" height="260%">
-    <feGaussianBlur stdDeviation="3.5" result="b"/>
+  <!-- Edge highlight: a faint radial glow used for key lines -->
+  <filter id="eg" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
     <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
   </filter>
-  <filter id="lg" x="-8%" y="-60%" width="116%" height="220%">
-    <feGaussianBlur stdDeviation="2" result="b"/>
+  <filter id="cg2" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="6" result="b"/>
     <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
   </filter>
-  <clipPath id="clip"><rect width="900" height="260"/></clipPath>
-  <clipPath id="lcl"><rect x="0" y="0" width="230" height="260"/></clipPath>
-  <clipPath id="rcl"><rect x="670" y="0" width="230" height="260"/></clipPath>
+  <clipPath id="cc">
+    <rect x="16" y="14" width="868" height="272" rx="22" ry="22"/>
+  </clipPath>
 </defs>
 
-<!-- BG -->
-<rect width="900" height="260" fill="url(#bg)"/>
-<rect width="900" height="260" fill="url(#aL)"/>
-<rect width="900" height="260" fill="url(#aR)"/>
-<rect width="900" height="260" fill="url(#aC)"/>
+<!-- OUTER BG -->
+<rect width="900" height="300" fill="#05050b"/>
 
-<!-- HEX GRIDS -->
-<rect x="0" y="0" width="230" height="260" fill="url(#hex)" opacity=".065" clip-path="url(#lcl)"/>
-<rect x="670" y="0" width="230" height="260" fill="url(#hex)" opacity=".065" clip-path="url(#rcl)"/>
+<!-- CARD -->
+<rect x="16" y="14" width="868" height="272" rx="22" ry="22" fill="url(#cg)"/>
+<rect x="16" y="14" width="868" height="272" rx="22" ry="22" fill="url(#tl)"/>
+<rect x="16" y="14" width="868" height="272" rx="22" ry="22"
+      fill="none" stroke="rgba(255,255,255,0.09)" stroke-width="1.2"/>
 
-<!-- LEFT NEURAL NET -->
-<g clip-path="url(#clip)">
-  <line x1="18" y1="48" x2="78" y2="98" stroke="#00d4ff" stroke-width=".65" opacity=".22"/>
-  <line x1="18" y1="48" x2="52" y2="152" stroke="#7c3aed" stroke-width=".65" opacity=".16"/>
-  <line x1="78" y1="98" x2="52" y2="152" stroke="#00d4ff" stroke-width=".65" opacity=".22"/>
-  <line x1="78" y1="98" x2="148" y2="72" stroke="#00d4ff" stroke-width=".65" opacity=".24"/>
-  <line x1="78" y1="98" x2="158" y2="128" stroke="#7c3aed" stroke-width=".65" opacity=".19"/>
-  <line x1="52" y1="152" x2="148" y2="183" stroke="#7c3aed" stroke-width=".65" opacity=".19"/>
-  <line x1="148" y1="72" x2="158" y2="128" stroke="#00d4ff" stroke-width=".65" opacity=".16"/>
-  <line x1="148" y1="72" x2="198" y2="52" stroke="#00d4ff" stroke-width=".65" opacity=".16"/>
-  <line x1="158" y1="128" x2="148" y2="183" stroke="#7c3aed" stroke-width=".65" opacity=".16"/>
-  <line x1="158" y1="128" x2="208" y2="112" stroke="#00d4ff" stroke-width=".65" opacity=".13"/>
-  <line x1="148" y1="183" x2="202" y2="198" stroke="#7c3aed" stroke-width=".65" opacity=".15"/>
-  <line x1="38" y1="208" x2="52" y2="152" stroke="#7c3aed" stroke-width=".65" opacity=".19"/>
-  <line x1="38" y1="208" x2="148" y2="183" stroke="#7c3aed" stroke-width=".65" opacity=".13"/>
-  <line x1="118" y1="28" x2="148" y2="72" stroke="#00d4ff" stroke-width=".65" opacity=".19"/>
-  <line x1="118" y1="28" x2="78" y2="98" stroke="#00d4ff" stroke-width=".65" opacity=".14"/>
-  <line x1="198" y1="52" x2="208" y2="112" stroke="#00d4ff" stroke-width=".65" opacity=".11"/>
-
-  <circle cx="78" cy="98" r="16" fill="#00d4ff" opacity=".045" class="n2"/>
-  <circle cx="158" cy="128" r="13" fill="#7c3aed" opacity=".055" class="n3"/>
-  <circle cx="148" cy="72" r="11" fill="#00d4ff" opacity=".05" class="n"/>
-
-  <circle cx="18" cy="48" r="2.5" fill="#00d4ff" class="n" filter="url(#ng)"/>
-  <circle cx="78" cy="98" r="5.5" fill="#00d4ff" class="n2" filter="url(#ng)"/>
-  <circle cx="52" cy="152" r="3.5" fill="#7c3aed" class="n3" filter="url(#ng)"/>
-  <circle cx="148" cy="72" r="4.5" fill="#00d4ff" class="n" filter="url(#ng)"/>
-  <circle cx="158" cy="128" r="4" fill="#7c3aed" class="n2" filter="url(#ng)"/>
-  <circle cx="148" cy="183" r="3.5" fill="#7c3aed" class="n3" filter="url(#ng)"/>
-  <circle cx="198" cy="52" r="3" fill="#00d4ff" class="n" filter="url(#ng)"/>
-  <circle cx="208" cy="112" r="3" fill="#00d4ff" class="n2" filter="url(#ng)"/>
-  <circle cx="202" cy="198" r="2.5" fill="#7c3aed" class="n3" filter="url(#ng)"/>
-  <circle cx="38" cy="208" r="3" fill="#7c3aed" class="n" filter="url(#ng)"/>
-  <circle cx="118" cy="28" r="3" fill="#00d4ff" class="n2" filter="url(#ng)"/>
-</g>
-
-<!-- RIGHT NEURAL NET -->
-<g clip-path="url(#clip)">
-  <line x1="882" y1="48" x2="822" y2="98" stroke="#7c3aed" stroke-width=".65" opacity=".22"/>
-  <line x1="882" y1="48" x2="848" y2="152" stroke="#00d4ff" stroke-width=".65" opacity=".16"/>
-  <line x1="822" y1="98" x2="848" y2="152" stroke="#7c3aed" stroke-width=".65" opacity=".22"/>
-  <line x1="822" y1="98" x2="752" y2="72" stroke="#7c3aed" stroke-width=".65" opacity=".24"/>
-  <line x1="822" y1="98" x2="742" y2="128" stroke="#00d4ff" stroke-width=".65" opacity=".19"/>
-  <line x1="848" y1="152" x2="752" y2="183" stroke="#00d4ff" stroke-width=".65" opacity=".19"/>
-  <line x1="752" y1="72" x2="742" y2="128" stroke="#7c3aed" stroke-width=".65" opacity=".16"/>
-  <line x1="752" y1="72" x2="702" y2="52" stroke="#7c3aed" stroke-width=".65" opacity=".16"/>
-  <line x1="742" y1="128" x2="752" y2="183" stroke="#00d4ff" stroke-width=".65" opacity=".16"/>
-  <line x1="742" y1="128" x2="692" y2="112" stroke="#7c3aed" stroke-width=".65" opacity=".13"/>
-  <line x1="752" y1="183" x2="698" y2="198" stroke="#00d4ff" stroke-width=".65" opacity=".15"/>
-  <line x1="862" y1="208" x2="848" y2="152" stroke="#00d4ff" stroke-width=".65" opacity=".19"/>
-  <line x1="862" y1="208" x2="752" y2="183" stroke="#00d4ff" stroke-width=".65" opacity=".13"/>
-  <line x1="782" y1="28" x2="752" y2="72" stroke="#7c3aed" stroke-width=".65" opacity=".19"/>
-  <line x1="782" y1="28" x2="822" y2="98" stroke="#7c3aed" stroke-width=".65" opacity=".14"/>
-  <line x1="702" y1="52" x2="692" y2="112" stroke="#7c3aed" stroke-width=".65" opacity=".11"/>
-
-  <circle cx="822" cy="98" r="16" fill="#7c3aed" opacity=".045" class="n2"/>
-  <circle cx="742" cy="128" r="13" fill="#00d4ff" opacity=".055" class="n3"/>
-  <circle cx="752" cy="72" r="11" fill="#7c3aed" opacity=".05" class="n"/>
-
-  <circle cx="882" cy="48" r="2.5" fill="#7c3aed" class="n" filter="url(#ng)"/>
-  <circle cx="822" cy="98" r="5.5" fill="#7c3aed" class="n2" filter="url(#ng)"/>
-  <circle cx="848" cy="152" r="3.5" fill="#00d4ff" class="n3" filter="url(#ng)"/>
-  <circle cx="752" cy="72" r="4.5" fill="#7c3aed" class="n" filter="url(#ng)"/>
-  <circle cx="742" cy="128" r="4" fill="#00d4ff" class="n2" filter="url(#ng)"/>
-  <circle cx="752" cy="183" r="3.5" fill="#00d4ff" class="n3" filter="url(#ng)"/>
-  <circle cx="702" cy="52" r="3" fill="#7c3aed" class="n" filter="url(#ng)"/>
-  <circle cx="692" cy="112" r="3" fill="#7c3aed" class="n2" filter="url(#ng)"/>
-  <circle cx="698" cy="198" r="2.5" fill="#00d4ff" class="n3" filter="url(#ng)"/>
-  <circle cx="862" cy="208" r="3" fill="#00d4ff" class="n" filter="url(#ng)"/>
-  <circle cx="782" cy="28" r="3" fill="#7c3aed" class="n2" filter="url(#ng)"/>
-</g>
-
-<!-- CIRCUIT TRACES LEFT -->
-<g stroke="#00d4ff" fill="none" stroke-width=".75" opacity=".2" clip-path="url(#lcl)">
-  <path d="M0,86 H62 L84,64 H210"/>
-  <path d="M0,146 H42 L64,124 H215"/>
-  <path d="M0,194 H48 L70,172 H185 L205,152"/>
-  <circle cx="62" cy="86" r="2.2" fill="#00d4ff"/>
-  <circle cx="42" cy="146" r="2.2" fill="#00d4ff"/>
-  <circle cx="64" cy="124" r="2.2" fill="#00d4ff"/>
-</g>
-
-<!-- CIRCUIT TRACES RIGHT -->
-<g stroke="#7c3aed" fill="none" stroke-width=".75" opacity=".2" clip-path="url(#rcl)">
-  <path d="M900,86 H838 L816,64 H690"/>
-  <path d="M900,146 H858 L836,124 H685"/>
-  <path d="M900,194 H852 L830,172 H715 L695,152"/>
-  <circle cx="838" cy="86" r="2.2" fill="#7c3aed"/>
-  <circle cx="858" cy="146" r="2.2" fill="#7c3aed"/>
-  <circle cx="836" cy="124" r="2.2" fill="#7c3aed"/>
-</g>
-
-<!-- DATA FLOWS -->
-<g clip-path="url(#clip)">
-  <rect x="0" y="70" width="300" height="1.3" fill="url(#dfg)" class="df" opacity=".5"/>
-  <rect x="0" y="140" width="300" height="1.3" fill="url(#dfg2)" class="df2" opacity=".42"/>
-  <rect x="0" y="190" width="300" height="1.3" fill="url(#dfg)" class="df3" opacity=".38"/>
-</g>
-
-<!-- HUD BRACKETS -->
-<path d="M16 36 L16 16 L36 16" stroke="#00d4ff" stroke-width="2" fill="none" class="bp" filter="url(#lg)"/>
-<path d="M864 16 L884 16 L884 36" stroke="#00d4ff" stroke-width="2" fill="none" class="bp" filter="url(#lg)"/>
-<path d="M16 224 L16 244 L36 244" stroke="#7c3aed" stroke-width="2" fill="none" class="rp" filter="url(#lg)"/>
-<path d="M864 244 L884 244 L884 224" stroke="#7c3aed" stroke-width="2" fill="none" class="rp" filter="url(#lg)"/>
-
-<!-- HUD LINES -->
-<line x1="36" y1="20" x2="218" y2="20" stroke="#00d4ff" stroke-width=".5" opacity=".38"/>
-<line x1="682" y1="20" x2="864" y2="20" stroke="#00d4ff" stroke-width=".5" opacity=".38"/>
-<line x1="36" y1="240" x2="218" y2="240" stroke="#7c3aed" stroke-width=".5" opacity=".38"/>
-<line x1="682" y1="240" x2="864" y2="240" stroke="#7c3aed" stroke-width=".5" opacity=".38"/>
-
-<!-- STATUS ONLINE -->
-<circle cx="46" cy="20" r="3.5" fill="#22c55e" filter="url(#lg)">
-  <animate attributeName="opacity" values="1;.1;1" dur="1.5s" repeatCount="indefinite"/>
-</circle>
-<text x="56" y="24.5" font-family="'Courier New',Courier,monospace" font-size="8.5" fill="#22c55e" letter-spacing="1.3" opacity=".9">SYSTEMS_ONLINE</text>
-<text x="682" y="24.5" font-family="'Courier New',Courier,monospace" font-size="8.5" fill="#8b949e" letter-spacing="1" opacity=".6">AI_ARCHITECT_v2026</text>
-
-<!-- BOTTOM STATUS -->
-<circle cx="46" cy="240" r="3" fill="#7c3aed" filter="url(#lg)">
-  <animate attributeName="opacity" values=".3;1;.3" dur="2s" repeatCount="indefinite" begin=".75s"/>
-</circle>
-<text x="56" y="244" font-family="'Courier New',Courier,monospace" font-size="7.5" fill="#8b949e" opacity=".5" letter-spacing="1">HYD · IN</text>
-<text x="682" y="244" font-family="'Courier New',Courier,monospace" font-size="7.5" fill="#8b949e" opacity=".5" letter-spacing="1">OPEN_TO_COLLABORATE</text>
-
-<!-- AMBIENT TITLE GLOW (behind text) -->
-<ellipse cx="450" cy="125" rx="320" ry="75" fill="#00d4ff" opacity=".025"/>
-
-<!-- MAIN TITLE - IMPACT FONT + GRADIENT + GLOW + GLITCH -->
-<text x="450" y="132"
+<!-- ── LEFT TEXT ── -->
+<text x="58" y="118"
       font-family="Impact,'Arial Black',sans-serif"
-      font-size="74"
-      fill="url(#tg)"
-      text-anchor="middle"
-      letter-spacing="11"
-      filter="url(#tglow)"
-      class="gt">PUNEETH RAJ</text>
+      font-size="80" fill="#ededf5" letter-spacing="3">PUNEETH</text>
 
-<!-- SUBTITLE -->
-<text x="450" y="172"
-      font-family="'Courier New',Courier,monospace"
-      font-size="13"
-      fill="#8b949e"
-      text-anchor="middle"
-      letter-spacing="4.5">ASPIRING AI ENGINEER  ·  FULL STACK DEVELOPER</text>
+<text x="58" y="200"
+      font-family="Impact,'Arial Black',sans-serif"
+      font-size="80" fill="url(#rj)" letter-spacing="3">RAJ</text>
 
-<!-- SUBTITLE FLANKING DECO -->
-<line x1="148" y1="183" x2="338" y2="183" stroke="url(#ll)" stroke-width=".9"/>
-<circle cx="346" cy="183" r="2.2" fill="#00d4ff" opacity=".75" filter="url(#lg)"/>
-<circle cx="450" cy="183" r="1.8" fill="#7c3aed" opacity=".65" filter="url(#lg)"/>
-<circle cx="554" cy="183" r="2.2" fill="#00d4ff" opacity=".75" filter="url(#lg)"/>
-<line x1="562" y1="183" x2="752" y2="183" stroke="url(#lr)" stroke-width=".9"/>
+<text x="60" y="242"
+      font-family="'Helvetica Neue',Helvetica,Arial,sans-serif"
+      font-size="14" fill="#3e4058" letter-spacing=".5">Aspiring AI Engineer · Full Stack Developer</text>
 
-<!-- SCAN LINE -->
-<rect x="0" y="0" width="900" height="85" fill="url(#sg)" clip-path="url(#clip)" class="sl"/>
+<!-- ── CRYSTAL RIGHT ── -->
+<g clip-path="url(#cc)">
 
-<!-- BORDERS -->
-<line x1="0" y1="1" x2="900" y2="1" stroke="#00d4ff" stroke-width="2">
-  <animate attributeName="opacity" values=".5;1;.5" dur="3s" repeatCount="indefinite"/>
-</line>
-<line x1="0" y1="259" x2="900" y2="259" stroke="#7c3aed" stroke-width="2">
-  <animate attributeName="opacity" values=".5;1;.5" dur="3s" repeatCount="indefinite" begin="1.5s"/>
-</line>
+  <!-- Diffuse ambient glow (behind everything) -->
+  <circle cx="660" cy="150" r="158" fill="url(#hl)" class="hl"/>
+
+  <!-- ── OUTER HEXAGON + SPOKES (slow CW) ── -->
+  <g stroke="rgba(200,210,230,0.22)" stroke-width="1" fill="rgba(255,255,255,0.012)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 660 150" to="360 660 150" dur="30s" repeatCount="indefinite"/>
+    <!-- Outer hexagon vertices (radius 108) -->
+    <!-- v0(top)=(660,42) v1(tr)=(755,96) v2(br)=(755,204) v3(bot)=(660,258) v4(bl)=(565,204) v5(tl)=(565,96) -->
+    <polygon points="660,42 755,96 755,204 660,258 565,204 565,96"/>
+    <!-- 6 radial spokes to center -->
+    <line x1="660" y1="42"  x2="660" y2="150"/>
+    <line x1="755" y1="96"  x2="660" y2="150"/>
+    <line x1="755" y1="204" x2="660" y2="150"/>
+    <line x1="660" y1="258" x2="660" y2="150"/>
+    <line x1="565" y1="204" x2="660" y2="150"/>
+    <line x1="565" y1="96"  x2="660" y2="150"/>
+  </g>
+
+  <!-- ── INNER HEXAGON + SPOKES (faster CCW, brighter) ── -->
+  <g stroke="rgba(210,225,245,0.38)" stroke-width="1.2" fill="rgba(255,255,255,0.018)">
+    <animateTransform attributeName="transform" type="rotate"
+      from="30 660 150" to="-330 660 150" dur="18s" repeatCount="indefinite"/>
+    <!-- Inner hexagon (radius 54, starts rotated 30° from outer) -->
+    <!-- v0=(660,96) v1=(707,123) v2=(707,177) v3=(660,204) v4=(613,177) v5=(613,123) -->
+    <polygon points="660,96 707,123 707,177 660,204 613,177 613,123"/>
+    <line x1="660" y1="96"  x2="660" y2="150"/>
+    <line x1="707" y1="123" x2="660" y2="150"/>
+    <line x1="707" y1="177" x2="660" y2="150"/>
+    <line x1="660" y1="204" x2="660" y2="150"/>
+    <line x1="613" y1="177" x2="660" y2="150"/>
+    <line x1="613" y1="123" x2="660" y2="150"/>
+  </g>
+
+  <!-- ── THIRD RING (smallest, CW, different speed — adds depth) ── -->
+  <g stroke="rgba(180,200,225,0.5)" stroke-width="0.8" fill="none">
+    <animateTransform attributeName="transform" type="rotate"
+      from="15 660 150" to="375 660 150" dur="11s" repeatCount="indefinite"/>
+    <!-- Tiny hexagon, radius 27 -->
+    <polygon points="660,123 683,136 683,164 660,177 637,164 637,136"/>
+  </g>
+
+  <!-- ── ORBITING SHARD 1 (triangle, orbit r=138, 15s CW) ── -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 660 150" to="360 660 150" dur="15s" repeatCount="indefinite"/>
+    <polygon points="660,12 674,32 646,32"
+             fill="rgba(255,255,255,0.04)" stroke="rgba(220,230,245,0.55)" stroke-width="0.9"/>
+  </g>
+
+  <!-- ── ORBITING SHARD 2 (triangle, orbit r=128, 23s CCW, starts 120°) ── -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="120 660 150" to="-240 660 150" dur="23s" repeatCount="indefinite"/>
+    <polygon points="660,22 672,38 648,38"
+             fill="rgba(255,255,255,0.03)" stroke="rgba(200,220,240,0.45)" stroke-width="0.8"/>
+  </g>
+
+  <!-- ── ORBITING SHARD 3 (tiny, orbit r=148, 19s CW, starts 240°) ── -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="240 660 150" to="600 660 150" dur="19s" repeatCount="indefinite"/>
+    <polygon points="660,2 670,18 650,18"
+             fill="rgba(255,255,255,0.03)" stroke="rgba(190,210,235,0.4)" stroke-width="0.7"/>
+  </g>
+
+  <!-- ── CENTER DOT ── -->
+  <circle cx="660" cy="150" r="3" fill="rgba(255,255,255,0.7)" filter="url(#cg2)" class="cd"/>
+
+</g>
+
+<!-- CARD BORDER REDRAW (sharp, on top of clip) -->
+<rect x="16" y="14" width="868" height="272" rx="22" ry="22"
+      fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
 </svg>
