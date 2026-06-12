@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,50:0a0e1a,100:0d1117&height=110&section=header&text=Puneeth%20Raj&fontSize=36&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Aspiring%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=13&descAlignY=68&descColor=8b949e" width="100%" />
+<img src="https://raw.githubusercontent.com/pun33th45/pun33th45/main/banner.svg" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=520&height=26&lines=Building+LLM+Pipelines+%26+AI+Agents;QA+Automation+Intern+%40+Proxim+Wireless;RAG+%C2%B7+Workflows+%C2%B7+Full+Stack+Dev;Open+to+Collaborate+%7C+Hyderabad%2C+India" alt="Typing SVG" />
 
