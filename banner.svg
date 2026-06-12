@@ -1,0 +1,186 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .n{animation:pulse 2s ease-in-out infinite}
+    .t{animation:flicker 9s ease-in-out infinite}
+    .sl{animation:scan 4s linear infinite}
+    @keyframes pulse{0%,100%{opacity:.25}50%{opacity:1}}
+    @keyframes flicker{0%,88%,100%{opacity:1}89%{opacity:.7}91%{opacity:1}93%{opacity:.3}95%{opacity:1}}
+    @keyframes scan{0%{transform:translateY(-70px)}100%{transform:translateY(330px)}}
+    @keyframes blink{0%,49%,100%{opacity:1}50%,99%{opacity:0}}
+    .bp{animation:bpulse 1.4s ease-in-out infinite}
+    @keyframes bpulse{0%,100%{opacity:.5}50%{opacity:1}}
+    .rb{animation:bpulse 1.4s ease-in-out infinite;animation-delay:0.7s}
+  </style>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="60%" stop-color="#060d18"/>
+      <stop offset="100%" stop-color="#020409"/>
+    </radialGradient>
+    <radialGradient id="ng1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity=".5"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ng2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity=".5"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00d4ff" stop-opacity=".08"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="lL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity=".6"/>
+    </linearGradient>
+    <linearGradient id="lR" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity=".6"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="sm" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="xs" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="1.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip"><rect width="900" height="260"/></clipPath>
+  </defs>
+
+  <!-- BG -->
+  <rect width="900" height="260" fill="url(#bg)"/>
+
+  <!-- Grid -->
+  <g opacity=".055" stroke="#00d4ff" stroke-width=".5" clip-path="url(#clip)">
+    <line x1="0" y1="52" x2="900" y2="52"/>
+    <line x1="0" y1="104" x2="900" y2="104"/>
+    <line x1="0" y1="156" x2="900" y2="156"/>
+    <line x1="0" y1="208" x2="900" y2="208"/>
+    <line x1="90" y1="0" x2="90" y2="260"/>
+    <line x1="180" y1="0" x2="180" y2="260"/>
+    <line x1="270" y1="0" x2="270" y2="260"/>
+    <line x1="360" y1="0" x2="360" y2="260"/>
+    <line x1="450" y1="0" x2="450" y2="260"/>
+    <line x1="540" y1="0" x2="540" y2="260"/>
+    <line x1="630" y1="0" x2="630" y2="260"/>
+    <line x1="720" y1="0" x2="720" y2="260"/>
+    <line x1="810" y1="0" x2="810" y2="260"/>
+  </g>
+
+  <!-- LEFT NEURAL CLUSTER -->
+  <g clip-path="url(#clip)">
+    <line x1="22" y1="58" x2="90" y2="120" stroke="#00d4ff" stroke-width=".6" opacity=".22"/>
+    <line x1="90" y1="120" x2="38" y2="192" stroke="#00d4ff" stroke-width=".6" opacity=".22"/>
+    <line x1="22" y1="58" x2="38" y2="192" stroke="#7c3aed" stroke-width=".6" opacity=".14"/>
+    <line x1="90" y1="120" x2="152" y2="62" stroke="#00d4ff" stroke-width=".6" opacity=".22"/>
+    <line x1="90" y1="120" x2="162" y2="170" stroke="#7c3aed" stroke-width=".6" opacity=".18"/>
+    <line x1="38" y1="192" x2="152" y2="200" stroke="#7c3aed" stroke-width=".6" opacity=".14"/>
+    <line x1="152" y1="62" x2="162" y2="170" stroke="#00d4ff" stroke-width=".6" opacity=".12"/>
+
+    <circle cx="90" cy="120" r="14" fill="url(#ng1)" class="n" style="animation-delay:.5s"/>
+    <circle cx="152" cy="62" r="10" fill="url(#ng2)" class="n" style="animation-delay:1.5s"/>
+
+    <circle cx="22" cy="58" r="3" fill="#00d4ff" class="n" style="animation-delay:0s" filter="url(#xs)"/>
+    <circle cx="90" cy="120" r="5.5" fill="#00d4ff" class="n" style="animation-delay:.5s" filter="url(#sm)"/>
+    <circle cx="38" cy="192" r="3" fill="#7c3aed" class="n" style="animation-delay:1s" filter="url(#xs)"/>
+    <circle cx="152" cy="62" r="4" fill="#7c3aed" class="n" style="animation-delay:1.5s" filter="url(#xs)"/>
+    <circle cx="162" cy="170" r="3" fill="#00d4ff" class="n" style="animation-delay:.8s" filter="url(#xs)"/>
+    <circle cx="152" cy="200" r="2.5" fill="#7c3aed" class="n" style="animation-delay:1.2s" filter="url(#xs)"/>
+  </g>
+
+  <!-- RIGHT NEURAL CLUSTER -->
+  <g clip-path="url(#clip)">
+    <line x1="878" y1="58" x2="810" y2="120" stroke="#7c3aed" stroke-width=".6" opacity=".22"/>
+    <line x1="810" y1="120" x2="862" y2="192" stroke="#7c3aed" stroke-width=".6" opacity=".22"/>
+    <line x1="878" y1="58" x2="862" y2="192" stroke="#00d4ff" stroke-width=".6" opacity=".14"/>
+    <line x1="810" y1="120" x2="748" y2="62" stroke="#7c3aed" stroke-width=".6" opacity=".22"/>
+    <line x1="810" y1="120" x2="738" y2="170" stroke="#00d4ff" stroke-width=".6" opacity=".18"/>
+    <line x1="862" y1="192" x2="748" y2="200" stroke="#00d4ff" stroke-width=".6" opacity=".14"/>
+    <line x1="748" y1="62" x2="738" y2="170" stroke="#7c3aed" stroke-width=".6" opacity=".12"/>
+
+    <circle cx="810" cy="120" r="14" fill="url(#ng2)" class="n" style="animation-delay:.8s"/>
+    <circle cx="748" cy="62" r="10" fill="url(#ng1)" class="n" style="animation-delay:1.8s"/>
+
+    <circle cx="878" cy="58" r="3" fill="#7c3aed" class="n" style="animation-delay:.3s" filter="url(#xs)"/>
+    <circle cx="810" cy="120" r="5.5" fill="#7c3aed" class="n" style="animation-delay:.8s" filter="url(#sm)"/>
+    <circle cx="862" cy="192" r="3" fill="#00d4ff" class="n" style="animation-delay:1.3s" filter="url(#xs)"/>
+    <circle cx="748" cy="62" r="4" fill="#00d4ff" class="n" style="animation-delay:1.8s" filter="url(#xs)"/>
+    <circle cx="738" cy="170" r="3" fill="#7c3aed" class="n" style="animation-delay:1.1s" filter="url(#xs)"/>
+    <circle cx="748" cy="200" r="2.5" fill="#00d4ff" class="n" style="animation-delay:1.6s" filter="url(#xs)"/>
+  </g>
+
+  <!-- HUD BRACKETS -->
+  <path d="M16 36 L16 16 L36 16" stroke="#00d4ff" stroke-width="2" fill="none" filter="url(#xs)" class="bp"/>
+  <path d="M864 16 L884 16 L884 36" stroke="#00d4ff" stroke-width="2" fill="none" filter="url(#xs)" class="bp"/>
+  <path d="M16 224 L16 244 L36 244" stroke="#7c3aed" stroke-width="2" fill="none" filter="url(#xs)" class="rb"/>
+  <path d="M864 244 L884 244 L884 224" stroke="#7c3aed" stroke-width="2" fill="none" filter="url(#xs)" class="rb"/>
+
+  <!-- Decorative HUD lines -->
+  <line x1="36" y1="20" x2="210" y2="20" stroke="#00d4ff" stroke-width=".5" opacity=".35"/>
+  <line x1="690" y1="20" x2="864" y2="20" stroke="#00d4ff" stroke-width=".5" opacity=".35"/>
+  <line x1="36" y1="240" x2="210" y2="240" stroke="#7c3aed" stroke-width=".5" opacity=".35"/>
+  <line x1="690" y1="240" x2="864" y2="240" stroke="#7c3aed" stroke-width=".5" opacity=".35"/>
+
+  <!-- Status: SYSTEMS ONLINE -->
+  <circle cx="48" cy="20" r="3.5" fill="#22c55e" filter="url(#xs)">
+    <animate attributeName="opacity" values="1;.2;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="58" y="24.5" font-family="'Courier New',Courier,monospace" font-size="8.5" fill="#22c55e" opacity=".85" letter-spacing="1.2">SYSTEMS_ONLINE</text>
+
+  <!-- Status: version -->
+  <text x="690" y="24.5" font-family="'Courier New',Courier,monospace" font-size="8.5" fill="#8b949e" opacity=".6" letter-spacing="1">AI_ARCHITECT_v2026</text>
+
+  <!-- Bottom status left -->
+  <circle cx="48" cy="240" r="3" fill="#7c3aed" filter="url(#xs)">
+    <animate attributeName="opacity" values=".3;1;.3" dur="2s" repeatCount="indefinite" begin=".7s"/>
+  </circle>
+  <text x="58" y="244" font-family="'Courier New',Courier,monospace" font-size="7.5" fill="#8b949e" opacity=".5" letter-spacing="1">HYD · IN</text>
+
+  <!-- Bottom status right -->
+  <text x="690" y="244" font-family="'Courier New',Courier,monospace" font-size="7.5" fill="#8b949e" opacity=".5" letter-spacing="1">OPEN_TO_COLLABORATE</text>
+
+  <!-- MAIN TITLE -->
+  <text x="450" y="128"
+        font-family="'Courier New',Courier,monospace"
+        font-size="58"
+        font-weight="bold"
+        fill="#00d4ff"
+        text-anchor="middle"
+        letter-spacing="10"
+        filter="url(#glow)"
+        class="t">PUNEETH RAJ</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="166"
+        font-family="'Courier New',Courier,monospace"
+        font-size="12.5"
+        fill="#8b949e"
+        text-anchor="middle"
+        letter-spacing="4">ASPIRING AI ENGINEER  ·  FULL STACK DEVELOPER</text>
+
+  <!-- Subtitle flanking decorations -->
+  <line x1="162" y1="177" x2="340" y2="177" stroke="url(#lL)" stroke-width=".8"/>
+  <circle cx="348" cy="177" r="2" fill="#00d4ff" opacity=".7"/>
+  <circle cx="450" cy="177" r="1.8" fill="#7c3aed" opacity=".6"/>
+  <circle cx="552" cy="177" r="2" fill="#00d4ff" opacity=".7"/>
+  <line x1="560" y1="177" x2="738" y2="177" stroke="url(#lR)" stroke-width=".8"/>
+
+  <!-- Scan line -->
+  <rect x="0" y="0" width="900" height="70" fill="url(#sg)" clip-path="url(#clip)" class="sl"/>
+
+  <!-- Top border pulse -->
+  <line x1="0" y1="1" x2="900" y2="1" stroke="#00d4ff" stroke-width="2">
+    <animate attributeName="opacity" values=".45;1;.45" dur="3s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Bottom border pulse -->
+  <line x1="0" y1="259" x2="900" y2="259" stroke="#7c3aed" stroke-width="2">
+    <animate attributeName="opacity" values=".45;1;.45" dur="3s" repeatCount="indefinite" begin="1.5s"/>
+  </line>
+</svg>
