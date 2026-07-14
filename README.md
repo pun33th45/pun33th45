@@ -160,8 +160,6 @@ PROMPT ──▶ LLM Orchestration
 [![](https://img.shields.io/github/stars/pun33th45/n8n-workflow-generator?style=flat-square&color=f59e0b&labelColor=0d1117&label=★)](https://github.com/pun33th45/n8n-workflow-generator/stargazers)
 &nbsp;
 [![](https://img.shields.io/badge/OPEN_REPO→-00d4ff?style=flat-square&labelColor=0d1117)](https://github.com/pun33th45/n8n-workflow-generator)
-&nbsp;
-[▶ Demo](TODO)
 
 </td>
 
@@ -187,8 +185,6 @@ QUERY ──▶ Vector Retrieval (Semantic Search)
 [![](https://img.shields.io/github/stars/pun33th45/RAG-Based-Developer-Assistant?style=flat-square&color=f59e0b&labelColor=0d1117&label=★)](https://github.com/pun33th45/RAG-Based-Developer-Assistant/stargazers)
 &nbsp;
 [![](https://img.shields.io/badge/OPEN_REPO→-7c3aed?style=flat-square&labelColor=0d1117)](https://github.com/pun33th45/RAG-Based-Developer-Assistant)
-&nbsp;
-[▶ Demo](TODO)
 
 </td>
 
@@ -221,8 +217,6 @@ NICHE ──▶ Prompt Layer
 [![](https://img.shields.io/github/forks/pun33th45/ai-startup-agent?style=flat-square&color=22c55e&labelColor=0d1117&label=⑂)](https://github.com/pun33th45/ai-startup-agent/network)
 &nbsp;
 [![](https://img.shields.io/badge/OPEN_REPO→-22c55e?style=flat-square&labelColor=0d1117)](https://github.com/pun33th45/ai-startup-agent)
-&nbsp;
-[▶ Demo](TODO)
 
 </td>
 
@@ -248,8 +242,6 @@ USER ──▶ Smart Parking Discovery
 [![](https://img.shields.io/github/stars/pun33th45/ParkMate-android?style=flat-square&color=f59e0b&labelColor=0d1117&label=★)](https://github.com/pun33th45/ParkMate-android/stargazers)
 &nbsp;
 [![](https://img.shields.io/badge/OPEN_REPO→-f59e0b?style=flat-square&labelColor=0d1117)](https://github.com/pun33th45/ParkMate-android)
-&nbsp;
-[▶ Demo](TODO)
 
 </td>
 
@@ -267,13 +259,6 @@ USER ──▶ Smart Parking Discovery
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pun33th45&bg_color=0d1117&color=00d4ff&line=00d4ff&point=7c3aed&area=true&hide_border=true&area_color=00d4ff15&title_color=00d4ff" width="100%" alt="Activity Graph" />
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pun33th45/pun33th45/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pun33th45/pun33th45/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/pun33th45/pun33th45/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
