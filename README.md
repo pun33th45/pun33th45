@@ -11,9 +11,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=pun33th45&style=flat-square&color=00d4ff&label=VIEWS&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/ASPIRING_AI_ENGINEER-00d4ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/AI_ENGINEER-00d4ff?style=flat-square&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/OPEN_TO_COLLABORATE-22c55e?style=flat-square&labelColor=0d1117" />
 &nbsp;
@@ -34,7 +32,7 @@
 ```bash
 $ whoami
   PUNEETH RAJ
-  Aspiring AI Engineer · Full Stack Dev
+  AI Engineer · Full-Stack Developer
   Hyderabad, India
 
 $ cat mission.txt
@@ -157,11 +155,13 @@ PROMPT ──▶ LLM Orchestration
                               └──▶ Deploy-Ready Automation
 ```
 
-<sub>`Python` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `n8n API` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `LLM Orchestration`</sub>
+<sub>`Next.js` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Tailwind` &nbsp;·&nbsp; `Google Gemini API` &nbsp;·&nbsp; `n8n Integration`</sub>
 
 [![](https://img.shields.io/github/stars/pun33th45/n8n-workflow-generator?style=flat-square&color=f59e0b&labelColor=0d1117&label=★)](https://github.com/pun33th45/n8n-workflow-generator/stargazers)
 &nbsp;
 [![](https://img.shields.io/badge/OPEN_REPO→-00d4ff?style=flat-square&labelColor=0d1117)](https://github.com/pun33th45/n8n-workflow-generator)
+&nbsp;
+[▶ Demo](TODO)
 
 </td>
 
@@ -187,6 +187,8 @@ QUERY ──▶ Vector Retrieval (Semantic Search)
 [![](https://img.shields.io/github/stars/pun33th45/RAG-Based-Developer-Assistant?style=flat-square&color=f59e0b&labelColor=0d1117&label=★)](https://github.com/pun33th45/RAG-Based-Developer-Assistant/stargazers)
 &nbsp;
 [![](https://img.shields.io/badge/OPEN_REPO→-7c3aed?style=flat-square&labelColor=0d1117)](https://github.com/pun33th45/RAG-Based-Developer-Assistant)
+&nbsp;
+[▶ Demo](TODO)
 
 </td>
 
@@ -219,6 +221,8 @@ NICHE ──▶ Prompt Layer
 [![](https://img.shields.io/github/forks/pun33th45/ai-startup-agent?style=flat-square&color=22c55e&labelColor=0d1117&label=⑂)](https://github.com/pun33th45/ai-startup-agent/network)
 &nbsp;
 [![](https://img.shields.io/badge/OPEN_REPO→-22c55e?style=flat-square&labelColor=0d1117)](https://github.com/pun33th45/ai-startup-agent)
+&nbsp;
+[▶ Demo](TODO)
 
 </td>
 
@@ -244,6 +248,8 @@ USER ──▶ Smart Parking Discovery
 [![](https://img.shields.io/github/stars/pun33th45/ParkMate-android?style=flat-square&color=f59e0b&labelColor=0d1117&label=★)](https://github.com/pun33th45/ParkMate-android/stargazers)
 &nbsp;
 [![](https://img.shields.io/badge/OPEN_REPO→-f59e0b?style=flat-square&labelColor=0d1117)](https://github.com/pun33th45/ParkMate-android)
+&nbsp;
+[▶ Demo](TODO)
 
 </td>
 
@@ -259,72 +265,15 @@ USER ──▶ Smart Parking Discovery
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pun33th45&theme=github_dark" alt="Top Languages" />
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pun33th45&theme=github_dark" alt="Most Used Languages" />
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pun33th45&bg_color=0d1117&color=00d4ff&line=00d4ff&point=7c3aed&area=true&hide_border=true&area_color=00d4ff15&title_color=00d4ff" width="100%" alt="Activity Graph" />
 
 <br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=pun33th45&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=6&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" alt="Trophies" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pun33th45/pun33th45/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pun33th45/pun33th45/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/pun33th45/pun33th45/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
-
-<details>
-<summary><sub>Set up the contribution snake (one-time)</sub></summary>
-
-Create `.github/workflows/snake.yml` in your `pun33th45/pun33th45` repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-<br/>
-
-<!-- ─────────── ◈ DIRECTIVE ───────────────────────────────────────────── -->
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║   Build systems that think.                             ║
-║   Ship products that matter.                            ║
-║   Make the invisible — inevitable.                      ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<sub><i>Every system I build moves toward autonomous intelligence at scale.</i></sub>
 
 </div>
 
